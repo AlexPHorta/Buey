@@ -636,7 +636,7 @@ DEPLOY_COMMANDS = {
         # "rsync -rav --delete output/ joe@my.site:/srv/www/site",
         # "lftp -e 'mirror -R ./output /home3/thaysval/buey.net.br' -u buey@buey.net.br,6temD0wn -p 21 ftp.thaysvallias.com.br"
         # lftp -e 'mirror -R /local/path/ /' -u user,password ftp.foo.com
-        "git pull origin master",
+        "git pull origin src",
         "nikola github_deploy"
     ]
 }
