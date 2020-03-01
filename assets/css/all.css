@@ -78,6 +78,10 @@ table.codetable { width: 100%;} td.linenos {text-align: right; width: 4em;}
     margin: 0 auto;
 }
 
+div#header {
+    padding: 1em 0;
+}
+
 #content {
     width: 730px;
     margin: 0 auto;
