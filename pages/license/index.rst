@@ -7,4 +7,6 @@
 .. description:
 .. type: text
 
-Unless otherwise noted, the contents of this blog/website are published under a .. _Creative Commons:https://creativecommons.org/licenses/by-nc-nd/4.0/ license.
+Unless otherwise noted, the contents of this blog/website are published under a Creative Commons_ license.
+
+.. _Creative Commons: https://creativecommons.org/licenses/by-nc-nd/4.0/
