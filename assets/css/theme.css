@@ -67,7 +67,7 @@ ul.breadcrumb > li:before {
 }
 
 <!-- Logo styling -->
-#logo {
+.brand #logo {
     display: block;
     margin-left: auto;
     margin-right: auto;
