@@ -631,13 +631,15 @@ REDIRECTIONS = []
 # to `nikola deploy`.  If no arguments are specified, a preset
 # named `default` will be executed.  You can use as many presets
 # in a `nikola deploy` command as you like.
-# DEPLOY_COMMANDS = {
-#     'default': [
-#         # "rsync -rav --delete output/ joe@my.site:/srv/www/site",
-#         "lftp -e 'mirror -R ./output /home3/thaysval/buey.net.br' -u buey@buey.net.br,6temD0wn -p 21 ftp.thaysvallias.com.br"
-#         # lftp -e 'mirror -R /local/path/ /' -u user,password ftp.foo.com
-#     ]
-# }
+DEPLOY_COMMANDS = {
+    'default': [
+        # "rsync -rav --delete output/ joe@my.site:/srv/www/site",
+        # "lftp -e 'mirror -R ./output /home3/thaysval/buey.net.br' -u buey@buey.net.br,6temD0wn -p 21 ftp.thaysvallias.com.br"
+        # lftp -e 'mirror -R /local/path/ /' -u user,password ftp.foo.com
+        "git pull origin master",
+        "nikola github_deploy"
+    ]
+}
 
 # github_deploy configuration
 # For more details, read the manual:
