@@ -8,3 +8,5 @@
 .. type: text
 
 Unless otherwise noted, the contents of this blog/website are published under a `Creative Commons <https://creativecommons.org/licenses/by-nc-nd/4.0/>`_ license.
+
+What?
