@@ -7365,6 +7365,10 @@ div#header {
     margin: 0 auto;
 }
 
+.row-fluid {
+    padding-top: 2em;
+}
+
 h1, h2, h3, h4, h5 {
     text-align: center;
     font-weight: 300;
@@ -7411,6 +7415,7 @@ body
 {
    font-size: 16px;
    font-family: Times, 'Times New Roman', serif;
+   line-height: 1.5;
 }
 
 a { color: #333; }

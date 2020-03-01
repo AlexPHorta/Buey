@@ -7,118 +7,50 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.buey.net.br/</loc>
-  <lastmod>2020-02-29T01:20:00Z</lastmod>
+  <lastmod>2020-03-01T03:06:00Z</lastmod>
  </url>
  <url>
-  <loc>https://www.buey.net.br/2012/</loc>
-  <lastmod>2020-02-29T01:19:00Z</lastmod>
+  <loc>https://www.buey.net.br/2020/</loc>
+  <lastmod>2020-03-01T03:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.buey.net.br/archive.html</loc>
-  <lastmod>2020-03-01T01:46:00Z</lastmod>
+  <lastmod>2020-03-01T03:18:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.buey.net.br/categories/</loc>
-  <lastmod>2020-02-29T01:20:00Z</lastmod>
+  <lastmod>2020-03-01T03:06:00Z</lastmod>
  </url>
  <url>
-  <loc>https://www.buey.net.br/categories/blog/</loc>
-  <lastmod>2020-02-29T01:19:00Z</lastmod>
+  <loc>https://www.buey.net.br/categories/buey/</loc>
+  <lastmod>2020-03-01T03:06:00Z</lastmod>
  </url>
  <url>
-  <loc>https://www.buey.net.br/categories/cat_nikola/</loc>
-  <lastmod>2020-02-29T01:19:00Z</lastmod>
+  <loc>https://www.buey.net.br/categories/cat_rants/</loc>
+  <lastmod>2020-03-01T03:06:00Z</lastmod>
  </url>
  <url>
-  <loc>https://www.buey.net.br/categories/demo/</loc>
-  <lastmod>2020-02-29T01:19:00Z</lastmod>
- </url>
- <url>
-  <loc>https://www.buey.net.br/categories/nikola/</loc>
-  <lastmod>2020-02-29T01:19:00Z</lastmod>
- </url>
- <url>
-  <loc>https://www.buey.net.br/categories/python/</loc>
-  <lastmod>2020-02-29T01:19:00Z</lastmod>
+  <loc>https://www.buey.net.br/categories/first-post/</loc>
+  <lastmod>2020-03-01T03:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.buey.net.br/galleries/</loc>
-  <lastmod>2020-02-29T01:19:00Z</lastmod>
- </url>
- <url>
-  <loc>https://www.buey.net.br/galleries/demo/</loc>
-  <lastmod>2020-02-29T01:19:00Z</lastmod>
+  <lastmod>2020-03-01T02:14:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.buey.net.br/listings/</loc>
-  <lastmod>2020-02-29T01:19:00Z</lastmod>
+  <lastmod>2020-03-01T02:14:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.buey.net.br/listings/__pycache__/</loc>
   <lastmod>2020-02-29T01:19:00Z</lastmod>
  </url>
  <url>
-  <loc>https://www.buey.net.br/listings/hello.py.html</loc>
-  <lastmod>2020-03-01T01:46:00Z</lastmod>
+  <loc>https://www.buey.net.br/pages/about/</loc>
+  <lastmod>2020-03-01T03:04:00Z</lastmod>
  </url>
  <url>
-  <loc>https://www.buey.net.br/pages/about-nikola/</loc>
-  <lastmod>2020-02-29T01:20:00Z</lastmod>
- </url>
- <url>
-  <loc>https://www.buey.net.br/pages/bootstrap-demo/</loc>
-  <lastmod>2020-02-29T01:20:00Z</lastmod>
- </url>
- <url>
-  <loc>https://www.buey.net.br/pages/charts/</loc>
-  <lastmod>2020-02-29T01:20:00Z</lastmod>
- </url>
- <url>
-  <loc>https://www.buey.net.br/pages/creating-a-theme/</loc>
-  <lastmod>2020-02-29T01:20:00Z</lastmod>
- </url>
- <url>
-  <loc>https://www.buey.net.br/pages/dr-nikolas-vendetta/</loc>
-  <lastmod>2020-02-29T01:20:00Z</lastmod>
- </url>
- <url>
-  <loc>https://www.buey.net.br/pages/extending/</loc>
-  <lastmod>2020-02-29T01:20:00Z</lastmod>
- </url>
- <url>
-  <loc>https://www.buey.net.br/pages/handbook/</loc>
-  <lastmod>2020-02-29T01:20:00Z</lastmod>
- </url>
- <url>
-  <loc>https://www.buey.net.br/pages/internals/</loc>
-  <lastmod>2020-02-29T01:20:00Z</lastmod>
- </url>
- <url>
-  <loc>https://www.buey.net.br/pages/listings-demo/</loc>
-  <lastmod>2020-02-29T01:20:00Z</lastmod>
- </url>
- <url>
-  <loc>https://www.buey.net.br/pages/path-handlers/</loc>
-  <lastmod>2020-02-29T01:20:00Z</lastmod>
- </url>
- <url>
-  <loc>https://www.buey.net.br/pages/quickref/</loc>
-  <lastmod>2020-02-29T01:20:00Z</lastmod>
- </url>
- <url>
-  <loc>https://www.buey.net.br/pages/quickstart/</loc>
-  <lastmod>2020-02-29T01:20:00Z</lastmod>
- </url>
- <url>
-  <loc>https://www.buey.net.br/pages/social_buttons/</loc>
-  <lastmod>2020-02-29T01:20:00Z</lastmod>
- </url>
- <url>
-  <loc>https://www.buey.net.br/pages/theming/</loc>
-  <lastmod>2020-02-29T01:20:00Z</lastmod>
- </url>
- <url>
-  <loc>https://www.buey.net.br/posts/welcome-to-nikola/</loc>
-  <lastmod>2020-02-29T01:20:00Z</lastmod>
+  <loc>https://www.buey.net.br/posts/first-post/</loc>
+  <lastmod>2020-03-01T03:06:00Z</lastmod>
  </url>
 </urlset>

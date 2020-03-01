@@ -6,39 +6,27 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://www.buey.net.br/categories/blog.xml</loc>
-  <lastmod>2020-02-29T01:20:00Z</lastmod>
+  <loc>https://www.buey.net.br/categories/buey.xml</loc>
+  <lastmod>2020-03-01T03:06:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://www.buey.net.br/categories/cat_nikola.xml</loc>
-  <lastmod>2020-02-29T01:20:00Z</lastmod>
+  <loc>https://www.buey.net.br/categories/cat_rants.xml</loc>
+  <lastmod>2020-03-01T03:06:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://www.buey.net.br/categories/demo.xml</loc>
-  <lastmod>2020-02-29T01:20:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.buey.net.br/categories/nikola.xml</loc>
-  <lastmod>2020-02-29T01:20:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.buey.net.br/categories/python.xml</loc>
-  <lastmod>2020-02-29T01:20:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.buey.net.br/galleries/demo/rss.xml</loc>
-  <lastmod>2020-03-01T01:46:00Z</lastmod>
+  <loc>https://www.buey.net.br/categories/first-post.xml</loc>
+  <lastmod>2020-03-01T03:06:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.buey.net.br/galleries/rss.xml</loc>
-  <lastmod>2020-03-01T01:46:00Z</lastmod>
+  <lastmod>2020-03-01T03:18:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.buey.net.br/rss.xml</loc>
-  <lastmod>2020-02-29T01:20:00Z</lastmod>
+  <lastmod>2020-03-01T03:06:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.buey.net.br/sitemap.xml</loc>
-  <lastmod>2020-03-01T01:46:00Z</lastmod>
+  <lastmod>2020-03-01T03:18:00Z</lastmod>
  </sitemap>
 </sitemapindex>
