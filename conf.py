@@ -639,6 +639,12 @@ DEPLOY_COMMANDS = {
         # lftp -e 'mirror -R /local/path/ /' -u user,password ftp.foo.com
         "git pull origin src",
         # "git pull origin master",
+        # "git fetch origin 331798abc6df693ed7b4cb85280aa4d3b9d86b1f:cname",
+        # "git checkout src",
+        # "git merge cname",
+        "echo 'www.buey.net.br' > CNAME",
+        "git add .",
+        "git commit -m 'CNAME'",
         "nikola github_deploy"
     ]
 }
