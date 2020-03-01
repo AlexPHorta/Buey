@@ -7419,3 +7419,10 @@ ul.breadcrumb > li:before {
     content: " / ";
 }
 
+<!-- Logo styling -->
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
