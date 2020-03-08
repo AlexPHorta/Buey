@@ -7436,3 +7436,9 @@ img#logo {
     margin-right: auto;
 }
 
+<!-- Center -->
+.center {
+    display: block;
+    margin: 2em auto;
+}
+
