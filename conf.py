@@ -635,14 +635,8 @@ REDIRECTIONS = []
 # in a `nikola deploy` command as you like.
 DEPLOY_COMMANDS = {
     'default': [
-        # "rsync -rav --delete output/ joe@my.site:/srv/www/site",
-        # "lftp -e 'mirror -R ./output /home3/thaysval/buey.net.br' -u buey@buey.net.br,6temD0wn -p 21 ftp.thaysvallias.com.br"
-        # lftp -e 'mirror -R /local/path/ /' -u user,password ftp.foo.com
+        "ssh-add ~/.ssh/id_rsa_GH",
         "git pull origin src",
-        # "git pull origin master",
-        # "git fetch origin 331798abc6df693ed7b4cb85280aa4d3b9d86b1f:cname",
-        # "git checkout src",
-        # "git merge cname",
         "echo 'www.buey.net.br' > CNAME",
         "git add .",
         "git commit -m 'CNAME'",
