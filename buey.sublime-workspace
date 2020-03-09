@@ -523,7 +523,7 @@
 			"file": "/home/alexandre/Buey/site/conf.py",
 			"settings":
 			{
-				"buffer_size": 54214,
+				"buffer_size": 53809,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -830,7 +830,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -839,15 +839,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 54214,
+						"buffer_size": 53809,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4327,
-								4327
+								24198,
+								24198
 							]
 						],
 						"settings":
@@ -858,10 +858,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3120.0,
+						"translation.y": 16214.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -890,7 +890,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -921,7 +921,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
