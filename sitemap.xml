@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.buey.net.br/</loc>
-  <lastmod>2020-03-01T23:36:00Z</lastmod>
+  <lastmod>2020-03-08T13:20:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.buey.net.br/2020/</loc>
@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>https://www.buey.net.br/archive.html</loc>
-  <lastmod>2020-03-01T19:37:00Z</lastmod>
+  <lastmod>2020-03-08T13:20:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.buey.net.br/categories/</loc>
@@ -52,6 +52,10 @@
  <url>
   <loc>https://www.buey.net.br/pages/license/</loc>
   <lastmod>2020-03-01T19:34:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.buey.net.br/pages/projects/</loc>
+  <lastmod>2020-03-08T13:17:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.buey.net.br/posts/first-post/</loc>
