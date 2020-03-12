@@ -852,6 +852,7 @@
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
 							"git_savvy.repo_path": "/home/alexandre/Buey/site",
 							"syntax": "Packages/Python/Python.sublime-syntax",
 							"tab_size": 4,
