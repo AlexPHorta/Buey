@@ -13,5 +13,5 @@ I love working on the plumbing, messing with the hooks and crannies of software 
 
 .. image:: /images/we.jpg
     :alt: My biggest and most loved project.
-    :class: rounded mx-auto d-block
+    :class: rounded float-right
     :width: 350px
