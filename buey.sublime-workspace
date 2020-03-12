@@ -523,7 +523,7 @@
 			"file": "/home/alexandre/Buey/site/conf.py",
 			"settings":
 			{
-				"buffer_size": 53809,
+				"buffer_size": 53713,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -538,10 +538,19 @@
 			}
 		},
 		{
-			"file": "/home/alexandre/Buey/site/themes/bootstrap/assets/css/theme.css",
+			"file": "/home/alexandre/Buey/site/pages/about.rst",
 			"settings":
 			{
-				"buffer_size": 3245,
+				"buffer_size": 1083,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/alexandre/Buey/site/themes/readable/templates/base.tmpl",
+			"settings":
+			{
+				"buffer_size": 3314,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -602,12 +611,14 @@
 	[
 		"/home/alexandre/Buey/site",
 		"/home/alexandre/Buey/site/themes",
-		"/home/alexandre/Buey/site/themes/bootstrap",
-		"/home/alexandre/Buey/site/themes/bootstrap/assets",
-		"/home/alexandre/Buey/site/themes/bootstrap/assets/js"
+		"/home/alexandre/Buey/site/themes/readable",
+		"/home/alexandre/Buey/site/themes/readable/assets",
+		"/home/alexandre/Buey/site/themes/readable/assets/css",
+		"/home/alexandre/Buey/site/themes/readable/templates"
 	],
 	"file_history":
 	[
+		"/home/alexandre/Buey/site/themes/readable/templates/base.tmpl",
 		"/home/alexandre/Buey/site/pages/about.rst",
 		"/home/alexandre/Buey/site/pages/projects.rst",
 		"/home/alexandre/Buey/site/output/assets/css/all-nocdn.css",
@@ -734,8 +745,7 @@
 		"/home/alexandre/Área de Trabalho/TAV/www/index.html",
 		"/home/alexandre/Projects/pixels.py",
 		"/home/alexandre/Projects/Images/cat.data",
-		"/home/alexandre/Projects/Images/cat.h",
-		"/home/alexandre/Projects/caesarcipher.py"
+		"/home/alexandre/Projects/Images/cat.h"
 	],
 	"find":
 	{
@@ -830,7 +840,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -839,7 +849,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 53809,
+						"buffer_size": 53713,
 						"regions":
 						{
 						},
@@ -862,7 +872,7 @@
 						"translation.y": 16214.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -896,33 +906,62 @@
 				},
 				{
 					"buffer": 2,
-					"file": "/home/alexandre/Buey/site/themes/bootstrap/assets/css/theme.css",
-					"semi_transient": true,
+					"file": "/home/alexandre/Buey/site/pages/about.rst",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3245,
+						"buffer_size": 1083,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								309,
+								309
 							]
 						],
 						"settings":
 						{
 							"git_savvy.repo_path": "/home/alexandre/Buey/site",
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/RestructuredText/reStructuredText.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/alexandre/Buey/site/themes/readable/templates/base.tmpl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3314,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1413,
+								1413
+							]
+						],
+						"settings":
+						{
+							"git_savvy.repo_path": "/home/alexandre/Buey/site",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 390.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
