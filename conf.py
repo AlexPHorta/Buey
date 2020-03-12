@@ -155,7 +155,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "readable"
+THEME = "canterville"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
@@ -182,6 +182,13 @@ THEME_CONFIG = {
         # Contents of the sidebar, If empty, the sidebar is not displayed.
         'sidebar': ''
     }
+}
+
+GLOBAL_CONTEXT = {
+        'TWITTER_URL': 'https://twitter.com/getnikola',
+        'GITHUB_URL': 'https://github.com/AlexPHorta',
+        'LINKEDIN_URL': None,
+        'BANNER_URL': '/assets/img/silk-road.jpg',
 }
 
 # POSTS and PAGES contains (wildcard, destination, template) tuples.
