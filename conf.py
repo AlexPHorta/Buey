@@ -637,9 +637,9 @@ DEPLOY_COMMANDS = {
     'default': [
         "ssh-add ~/.ssh/id_rsa_GH",
         "git pull origin src",
-        "echo 'www.buey.net.br' > CNAME",
-        "git add .",
-        "git commit -m 'CNAME'",
+        # "echo 'www.buey.net.br' > CNAME",
+        # "git add .",
+        # "git commit -m 'CNAME'",
         "nikola github_deploy"
     ]
 }
