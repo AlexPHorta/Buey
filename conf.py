@@ -144,6 +144,10 @@ NAVIGATION_LINKS = {
         ("/archive.html", "Archive"),
         ("/categories/", "Tags"),
         ("/rss.xml", "RSS feed"),
+        ("https://t.me/AlexPHorta", "Telegram"),
+        ("https://discordapp.com/channels/674428103220527122/689652942395277344", "Discord"),
+        ("https://www.github.com/AlexPHorta", "GitHub"),
+        ("/cv.pdf", "CV"),
     ),
 }
 
@@ -151,11 +155,11 @@ NAVIGATION_LINKS = {
 # although themes may not always support them. (translatable)
 # (Bootstrap 4: right-side of navbar, Bootblog 4: right side of title)
 NAVIGATION_ALT_LINKS = {
-    DEFAULT_LANG: ()
+    DEFAULT_LANG: (),
 }
 
 # Name of the theme to use.
-THEME = "canterville"
+THEME = "hyde"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
@@ -185,10 +189,7 @@ THEME_CONFIG = {
 }
 
 GLOBAL_CONTEXT = {
-        'TWITTER_URL': 'https://twitter.com/getnikola',
-        'GITHUB_URL': 'https://github.com/AlexPHorta',
-        'LINKEDIN_URL': None,
-        'BANNER_URL': '/assets/img/silk-road.jpg',
+        "hyde_subtheme": "theme-base-09"
 }
 
 # POSTS and PAGES contains (wildcard, destination, template) tuples.
@@ -896,10 +897,23 @@ IMAGE_FOLDERS = {'images': 'images'}
 # FAVICONS contains (name, file, size) tuples.
 # Used to create favicon link like this:
 # <link rel="name" href="file" sizes="size"/>
-# FAVICONS = (
-#     ("icon", "/favicon.ico", "16x16"),
-#     ("icon", "/icon_128x128.png", "128x128"),
-# )
+FAVICONS = (
+    ("icon", "/favicon.ico", "16x16"),
+    ("icon", "/icon_128x128.png", "128x128"),
+    ("apple-touch-icon", "/apple-icon-57x57.png", "57x57"),
+    ("apple-touch-icon", "/apple-icon-60x60.png", "60x60"),
+    ("apple-touch-icon", "/apple-icon-72x72.png", "72x72"),
+    ("apple-touch-icon", "/apple-icon-76x76.png", "76x76"),
+    ("apple-touch-icon", "/apple-icon-114x114.png", "114x114"),
+    ("apple-touch-icon", "/apple-icon-120x120.png", "120x120"),
+    ("apple-touch-icon", "/apple-icon-144x144.png", "144x144"),
+    ("apple-touch-icon", "/apple-icon-152x152.png", "152x152"),
+    ("apple-touch-icon", "/apple-icon-180x180.png", "180x180"),
+    ("icon", "/android-icon-192x192.png", "192x192"),
+    ("icon", "/favicon-32x32.png", "32x32"),
+    ("icon", "/favicon-96x96.png", "96x96"),
+    ("icon", "/favicon-16x16.png", "16x16"),
+)
 
 # Show teasers (instead of full posts) in indexes? Defaults to False.
 # INDEX_TEASERS = False

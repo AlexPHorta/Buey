@@ -10,11 +10,13 @@
 NSEW Virtual Keyboard
 _____________________
 
-.. youtube:: hsl0FeszHbI
-    :align: center
+NSEW_ is a virtual keyboard designed for remote controllers and for use in situations where only four directional and one selection keys are available.
 
-**NSEW** is a virtual keyboard designed for remote controllers and for use in situations where only four directional and one selection keys are available. The usual layout found in virtual keyboards used in televisions, videogames or others is annoying (it takes a huge amount of time to type a four/five letter word).
+.. _NSEW: /pages/nsew-virtual-keyboard
 
-With **NSEW** this problem is solved because the keys are distributed around a central key (Mode). Each time you select a letter the cursor returns to the central key. The character around the Mode key are sorted based on the frequency distribution in the selected language (default is English).
+Burglar
+_______
 
-.. image:: /images/nsew.jpg
+Burglar_ is a *match 3* game with an innovative design, a circular grid that gets filled with color stones.
+
+.. _Burglar: /pages/burglar-match-3-game
