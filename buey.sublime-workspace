@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"boot",
+				"bootstrap4"
+			],
+			[
 				"te",
 				"text2"
 			],
@@ -510,29 +514,16 @@
 			[
 				"SDL",
 				"SDL_Error"
-			],
-			[
-				"SC",
-				"SCREEN_HEIGHT"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "/home/alexandre/Buey/site/conf.py",
-			"settings":
-			{
-				"buffer_size": 53713,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "/home/alexandre/Buey/site/pages/projects.rst",
 			"settings":
 			{
-				"buffer_size": 937,
+				"buffer_size": 918,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -547,10 +538,10 @@
 			}
 		},
 		{
-			"file": "/home/alexandre/Buey/site/themes/readable/templates/base.tmpl",
+			"file": "/home/alexandre/Buey/site/conf.py",
 			"settings":
 			{
-				"buffer_size": 3314,
+				"buffer_size": 53929,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -611,13 +602,22 @@
 	[
 		"/home/alexandre/Buey/site",
 		"/home/alexandre/Buey/site/themes",
-		"/home/alexandre/Buey/site/themes/readable",
-		"/home/alexandre/Buey/site/themes/readable/assets",
-		"/home/alexandre/Buey/site/themes/readable/assets/css",
-		"/home/alexandre/Buey/site/themes/readable/templates"
+		"/home/alexandre/Buey/site/themes/bootstrap4",
+		"/home/alexandre/Buey/site/themes/bootstrap4/assets",
+		"/home/alexandre/Buey/site/themes/bootstrap4/assets/css",
+		"/home/alexandre/Buey/site/themes/bootstrap4/assets/js"
 	],
 	"file_history":
 	[
+		"/home/alexandre/Buey/site/themes/bootstrap4/assets/css/bootstrap.min.css",
+		"/home/alexandre/Buey/site/themes/bootstrap4/assets/css/theme.css",
+		"/home/alexandre/Buey/site/conf.py",
+		"/home/alexandre/Buey/site/themes/canterville/assets/css/nav.css",
+		"/home/alexandre/Buey/site/themes/canterville/assets/css/screen.css",
+		"/home/alexandre/Buey/site/themes/canterville/README.md",
+		"/home/alexandre/Buey/site/themes/canterville/parent",
+		"/home/alexandre/Buey/site/themes/canterville/conf.py.sample",
+		"/home/alexandre/Buey/site/themes/canterville/canterville.theme",
 		"/home/alexandre/Buey/site/themes/readable/templates/base.tmpl",
 		"/home/alexandre/Buey/site/pages/about.rst",
 		"/home/alexandre/Buey/site/pages/projects.rst",
@@ -736,16 +736,7 @@
 		"/home/alexandre/Área de Trabalho/TAV/www/thaysvallias.com.br/thaysvallias/css/coming-sssoon-demo.css",
 		"/home/alexandre/Área de Trabalho/TAV/www/thaysvallias.com.br/thaysvallias/css/coming-sssoon.css",
 		"/home/alexandre/Área de Trabalho/TAV/www/thaysvallias.com.br/thaysvallias/css/bootstrap.css",
-		"/home/alexandre/Área de Trabalho/TAV/www/thaysvallias.com.br/thaysvallias/js/jquery-1.10.2.js",
-		"/home/alexandre/Área de Trabalho/TAV/www/thaysvallias.com.br/thaysvallias/redir/vemaqui.php",
-		"/home/alexandre/Área de Trabalho/TAV/www/thaysvallias.com.br/thaysvallias/redir/index.php",
-		"/home/alexandre/Área de Trabalho/TAV/www/thaysvallias.com.br/thaysvallias/redir/dados.txt",
-		"/home/alexandre/Área de Trabalho/TAV/www/thaysvallias.com.br/thaysvallias/index.html",
-		"/home/alexandre/Área de Trabalho/TAV/www/default.html",
-		"/home/alexandre/Área de Trabalho/TAV/www/index.html",
-		"/home/alexandre/Projects/pixels.py",
-		"/home/alexandre/Projects/Images/cat.data",
-		"/home/alexandre/Projects/Images/cat.h"
+		"/home/alexandre/Área de Trabalho/TAV/www/thaysvallias.com.br/thaysvallias/js/jquery-1.10.2.js"
 	],
 	"find":
 	{
@@ -840,56 +831,24 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/home/alexandre/Buey/site/conf.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 53713,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								24198,
-								24198
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
-							"git_savvy.repo_path": "/home/alexandre/Buey/site",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 16214.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "/home/alexandre/Buey/site/pages/projects.rst",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 937,
+						"buffer_size": 918,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								290,
-								290
+								247,
+								247
 							]
 						],
 						"settings":
@@ -901,11 +860,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "/home/alexandre/Buey/site/pages/about.rst",
 					"semi_transient": false,
 					"settings":
@@ -930,35 +889,41 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
-				},
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
 				{
-					"buffer": 3,
-					"file": "/home/alexandre/Buey/site/themes/readable/templates/base.tmpl",
+					"buffer": 2,
+					"file": "/home/alexandre/Buey/site/conf.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3314,
+						"buffer_size": 53929,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1413,
-								1413
+								4783,
+								4783
 							]
 						],
 						"settings":
 						{
 							"git_savvy.repo_path": "/home/alexandre/Buey/site",
-							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"syntax": "Packages/Python/Python.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 390.0,
+						"translation.y": 4446.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -984,11 +949,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -1040,7 +1012,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
@@ -1048,7 +1020,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 315.0,
+	"side_bar_width": 242.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.buey.net.br/</loc>
-  <lastmod>2020-03-08T13:20:00Z</lastmod>
+  <lastmod>2020-03-18T00:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.buey.net.br/2020/</loc>
@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>https://www.buey.net.br/archive.html</loc>
-  <lastmod>2020-03-12T03:23:00Z</lastmod>
+  <lastmod>2020-03-18T02:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.buey.net.br/categories/</loc>
@@ -50,8 +50,16 @@
   <lastmod>2020-03-01T03:04:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.buey.net.br/pages/burglar-match-3-game/</loc>
+  <lastmod>2020-03-17T22:17:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.buey.net.br/pages/license/</loc>
   <lastmod>2020-03-01T19:34:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.buey.net.br/pages/nsew-virtual-keyboard/</loc>
+  <lastmod>2020-03-17T19:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.buey.net.br/pages/projects/</loc>
