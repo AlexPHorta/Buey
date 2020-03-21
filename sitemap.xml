@@ -15,15 +15,19 @@
  </url>
  <url>
   <loc>https://www.buey.net.br/archive.html</loc>
-  <lastmod>2020-03-18T02:12:00Z</lastmod>
+  <lastmod>2020-03-21T01:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.buey.net.br/categories/</loc>
-  <lastmod>2020-03-01T03:06:00Z</lastmod>
+  <lastmod>2020-03-19T22:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.buey.net.br/categories/buey/</loc>
   <lastmod>2020-03-01T03:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.buey.net.br/categories/cat_programming/</loc>
+  <lastmod>2020-03-19T21:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.buey.net.br/categories/cat_rants/</loc>
@@ -32,6 +36,18 @@
  <url>
   <loc>https://www.buey.net.br/categories/first-post/</loc>
   <lastmod>2020-03-01T03:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.buey.net.br/categories/programming/</loc>
+  <lastmod>2020-03-19T21:53:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.buey.net.br/categories/project-idea/</loc>
+  <lastmod>2020-03-19T21:53:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.buey.net.br/categories/python/</loc>
+  <lastmod>2020-03-19T22:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.buey.net.br/galleries/</loc>
@@ -68,5 +84,9 @@
  <url>
   <loc>https://www.buey.net.br/posts/first-post/</loc>
   <lastmod>2020-03-01T03:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.buey.net.br/posts/programming_project_idea/</loc>
+  <lastmod>2020-03-19T21:53:00Z</lastmod>
  </url>
 </urlset>

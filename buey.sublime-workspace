@@ -520,28 +520,10 @@
 	"buffers":
 	[
 		{
-			"file": "/home/alexandre/Buey/site/pages/projects.rst",
+			"file": "/home/alexandre/Buey/site/posts/i_need_a_programming_project_idea.rst",
 			"settings":
 			{
-				"buffer_size": 918,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/alexandre/Buey/site/pages/about.rst",
-			"settings":
-			{
-				"buffer_size": 1083,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/alexandre/Buey/site/conf.py",
-			"settings":
-			{
-				"buffer_size": 53929,
+				"buffer_size": 4377,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -601,17 +583,31 @@
 	"expanded_folders":
 	[
 		"/home/alexandre/Buey/site",
+		"/home/alexandre/Buey/site/cache",
+		"/home/alexandre/Buey/site/posts",
 		"/home/alexandre/Buey/site/themes",
-		"/home/alexandre/Buey/site/themes/bootstrap4",
-		"/home/alexandre/Buey/site/themes/bootstrap4/assets",
-		"/home/alexandre/Buey/site/themes/bootstrap4/assets/css",
-		"/home/alexandre/Buey/site/themes/bootstrap4/assets/js"
+		"/home/alexandre/Buey/site/themes/hyde",
+		"/home/alexandre/Buey/site/themes/hyde/assets",
+		"/home/alexandre/Buey/site/themes/hyde/assets/css",
+		"/home/alexandre/Buey/site/themes/hyde/templates"
 	],
 	"file_history":
 	[
-		"/home/alexandre/Buey/site/themes/bootstrap4/assets/css/bootstrap.min.css",
-		"/home/alexandre/Buey/site/themes/bootstrap4/assets/css/theme.css",
 		"/home/alexandre/Buey/site/conf.py",
+		"/home/alexandre/Buey/site/pages/about.rst",
+		"/home/alexandre/Buey/site/pages/nsew.rst",
+		"/home/alexandre/Buey/site/pages/burglar.rst",
+		"/home/alexandre/Buey/site/pages/projects.rst",
+		"/home/alexandre/Buey/site/themes/hyde/README.md",
+		"/home/alexandre/Buey/site/themes/hyde/templates/index.tmpl",
+		"/home/alexandre/Buey/site/themes/hyde/templates/base.tmpl",
+		"/home/alexandre/Buey/site/themes/hyde/templates/base_header.tmpl",
+		"/home/alexandre/Buey/site/themes/hyde/engine",
+		"/home/alexandre/Buey/site/themes/bootstrap4/bundles",
+		"/home/alexandre/Buey/site/themes/bootstrap4/bootstrap4.theme",
+		"/home/alexandre/Buey/site/themes/bootstrap4/assets/css/theme.css",
+		"/home/alexandre/Buey/site/themes/bootstrap4/assets/css/bootstrap.min.css",
+		"/home/alexandre/Buey/site/themes/bootstrap4/README.md",
 		"/home/alexandre/Buey/site/themes/canterville/assets/css/nav.css",
 		"/home/alexandre/Buey/site/themes/canterville/assets/css/screen.css",
 		"/home/alexandre/Buey/site/themes/canterville/README.md",
@@ -619,8 +615,6 @@
 		"/home/alexandre/Buey/site/themes/canterville/conf.py.sample",
 		"/home/alexandre/Buey/site/themes/canterville/canterville.theme",
 		"/home/alexandre/Buey/site/themes/readable/templates/base.tmpl",
-		"/home/alexandre/Buey/site/pages/about.rst",
-		"/home/alexandre/Buey/site/pages/projects.rst",
 		"/home/alexandre/Buey/site/output/assets/css/all-nocdn.css",
 		"/home/alexandre/Buey/site/themes/readable/assets/css/theme.css",
 		"/home/alexandre/programming/notepad.py",
@@ -726,21 +720,11 @@
 		"/home/alexandre/Projects/Polygonal/mangle.py",
 		"/home/alexandre/Dropbox/Alexandre/wtf.txt",
 		"/home/alexandre/Projects/BBR/untitled.py",
-		"/home/alexandre/Área de Trabalho/TAV/buey.net.br/wp-content/themes/wp-less-is-more/functions.php",
-		"/home/alexandre/Área de Trabalho/TAV/buey.net.br/wp-content/themes/york-lite/functions.php",
-		"/home/alexandre/Área de Trabalho/TAV/buey.net.br/wp-content/themes/index.php",
-		"/home/alexandre/Área de Trabalho/TAV/buey.net.br/index.php",
-		"/home/alexandre/Área de Trabalho/TAV/buey.net.br/index.html_",
-		"/home/alexandre/Área de Trabalho/TAV/projetotear.com.br/index.html",
-		"/home/alexandre/Área de Trabalho/TAV/tmp/awstats/awstats.apressadinhos.thaysvallias.com.br.conf",
-		"/home/alexandre/Área de Trabalho/TAV/www/thaysvallias.com.br/thaysvallias/css/coming-sssoon-demo.css",
-		"/home/alexandre/Área de Trabalho/TAV/www/thaysvallias.com.br/thaysvallias/css/coming-sssoon.css",
-		"/home/alexandre/Área de Trabalho/TAV/www/thaysvallias.com.br/thaysvallias/css/bootstrap.css",
-		"/home/alexandre/Área de Trabalho/TAV/www/thaysvallias.com.br/thaysvallias/js/jquery-1.10.2.js"
+		"/home/alexandre/Área de Trabalho/TAV/buey.net.br/wp-content/themes/wp-less-is-more/functions.php"
 	],
 	"find":
 	{
-		"height": 48.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -755,6 +739,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"html_navigations_links",
 			"NSEW_layout",
 			"<p>",
 			"</p>",
@@ -836,94 +821,30 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/home/alexandre/Buey/site/pages/projects.rst",
+					"file": "/home/alexandre/Buey/site/posts/i_need_a_programming_project_idea.rst",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 918,
+						"buffer_size": 4377,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								247,
-								247
+								262,
+								262
 							]
 						],
 						"settings":
 						{
 							"git_savvy.repo_path": "/home/alexandre/Buey/site",
-							"syntax": "Packages/RestructuredText/reStructuredText.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/home/alexandre/Buey/site/pages/about.rst",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1083,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								309,
-								309
-							]
-						],
-						"settings":
-						{
-							"git_savvy.repo_path": "/home/alexandre/Buey/site",
-							"syntax": "Packages/RestructuredText/reStructuredText.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 2,
-					"file": "/home/alexandre/Buey/site/conf.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 53929,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4783,
-								4783
-							]
-						],
-						"settings":
-						{
-							"git_savvy.repo_path": "/home/alexandre/Buey/site",
-							"syntax": "Packages/Python/Python.sublime-syntax",
+							"syntax": "Packages/RestructuredText/reStructuredText.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4446.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -934,7 +855,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 41.0
+		"height": 35.0
 	},
 	"input":
 	{
@@ -949,18 +870,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5,
 			1.0
 		],
 		"rows":
@@ -982,7 +896,7 @@
 	"project": "buey.sublime-project",
 	"replace":
 	{
-		"height": 87.0
+		"height": 66.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1012,7 +926,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
@@ -1020,7 +934,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 242.0,
+	"side_bar_width": 348.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

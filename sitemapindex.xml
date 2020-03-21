@@ -10,6 +10,10 @@
   <lastmod>2020-03-01T03:06:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://www.buey.net.br/categories/cat_programming.xml</loc>
+  <lastmod>2020-03-21T01:07:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://www.buey.net.br/categories/cat_rants.xml</loc>
   <lastmod>2020-03-01T03:06:00Z</lastmod>
  </sitemap>
@@ -18,15 +22,27 @@
   <lastmod>2020-03-01T03:06:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://www.buey.net.br/categories/programming.xml</loc>
+  <lastmod>2020-03-21T01:07:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.buey.net.br/categories/project-idea.xml</loc>
+  <lastmod>2020-03-21T01:07:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.buey.net.br/categories/python.xml</loc>
+  <lastmod>2020-03-21T01:07:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://www.buey.net.br/galleries/rss.xml</loc>
-  <lastmod>2020-03-18T02:12:00Z</lastmod>
+  <lastmod>2020-03-21T01:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.buey.net.br/rss.xml</loc>
-  <lastmod>2020-03-01T03:06:00Z</lastmod>
+  <lastmod>2020-03-21T01:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.buey.net.br/sitemap.xml</loc>
-  <lastmod>2020-03-18T02:12:00Z</lastmod>
+  <lastmod>2020-03-21T01:07:00Z</lastmod>
  </sitemap>
 </sitemapindex>
