@@ -24,8 +24,8 @@ SITE_URL = "https://www.buey.net.br/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://www.buey.net.br/"
-BLOG_EMAIL = "contact@buey.net.br"
-BLOG_DESCRIPTION = "I build software and make stuff"  # (translatable)
+BLOG_EMAIL = "alexandre@buey.net.br"
+BLOG_DESCRIPTION = "I build software and make stuff work"  # (translatable)
 
 # Nikola is multilingual!
 #
