@@ -6,32 +6,20 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://www.buey.net.br/categories/buey.xml</loc>
-  <lastmod>2020-03-01T03:06:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://www.buey.net.br/categories/cat_programming.xml</loc>
-  <lastmod>2020-03-21T01:07:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.buey.net.br/categories/cat_rants.xml</loc>
-  <lastmod>2020-03-01T03:06:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.buey.net.br/categories/first-post.xml</loc>
-  <lastmod>2020-03-01T03:06:00Z</lastmod>
+  <lastmod>2020-03-21T02:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.buey.net.br/categories/programming.xml</loc>
-  <lastmod>2020-03-21T01:07:00Z</lastmod>
+  <lastmod>2020-03-21T02:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.buey.net.br/categories/project-idea.xml</loc>
-  <lastmod>2020-03-21T01:07:00Z</lastmod>
+  <lastmod>2020-03-21T02:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.buey.net.br/categories/python.xml</loc>
-  <lastmod>2020-03-21T01:07:00Z</lastmod>
+  <lastmod>2020-03-21T02:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.buey.net.br/galleries/rss.xml</loc>
@@ -39,10 +27,10 @@
  </sitemap>
  <sitemap>
   <loc>https://www.buey.net.br/rss.xml</loc>
-  <lastmod>2020-03-21T01:07:00Z</lastmod>
+  <lastmod>2020-03-21T02:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.buey.net.br/sitemap.xml</loc>
-  <lastmod>2020-03-21T01:07:00Z</lastmod>
+  <lastmod>2020-03-21T02:18:00Z</lastmod>
  </sitemap>
 </sitemapindex>
