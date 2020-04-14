@@ -147,7 +147,8 @@ NAVIGATION_LINKS = {
         ("https://t.me/AlexPHorta", "Telegram"),
         ("https://discordapp.com/channels/674428103220527122/689652942395277344", "Discord"),
         ("https://www.github.com/AlexPHorta", "GitHub"),
-        ("/cv.pdf", "CV"),
+        ("/cv.pdf", "CV (En)"),
+        ("/cv-ptBR.pdf", "CV (Pt)"),
     ),
 }
 
