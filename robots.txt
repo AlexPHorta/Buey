@@ -1,4 +1,0 @@
-Sitemap: https://www.buey.net.br/sitemapindex.xml
-
-User-Agent: *
-Host: www.buey.net.br
