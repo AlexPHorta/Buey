@@ -46,7 +46,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Author]
   name = "Alexandre Paloschi"
-  #website = "yourwebsite.com"
+  website = "www.buey.net.br"
   #email = "youremail@domain.com"
   #facebook = "username"
   github = "AlexPHorta"
