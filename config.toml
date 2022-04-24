@@ -15,7 +15,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
   #homeTitle = "Software, music and stuff" # Set a different text for the header on the home page
-  subtitle = "Software, music and stuff"
+  subtitle = "Software, music and stuff!"
   mainSections = ["post","posts"]
   logo = "http://{server-url}/buey.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
