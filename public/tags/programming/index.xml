@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>programming on Buey</title>
-    <link>https://Buey.github.io/tags/programming/</link>
+    <link>https://www.buey.net.br/tags/programming/</link>
     <description>Recent content in programming on Buey</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 23 Apr 2022 09:56:02 -0300</lastBuildDate><atom:link href="https://Buey.github.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Apr 2022 09:56:02 -0300</lastBuildDate><atom:link href="https://www.buey.net.br/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I need a programming project idea</title>
-      <link>https://Buey.github.io/posts/programming-project-idea/</link>
+      <link>https://www.buey.net.br/posts/programming-project-idea/</link>
       <pubDate>Sat, 23 Apr 2022 09:56:02 -0300</pubDate>
       
-      <guid>https://Buey.github.io/posts/programming-project-idea/</guid>
+      <guid>https://www.buey.net.br/posts/programming-project-idea/</guid>
       <description>The most common question I read in every thread, and I imagine you already have too, is &amp;ldquo;I&amp;rsquo;m new at programming and I want to practice, can someone give me some project ideas?&amp;rdquo;.
 Usually people have a very long list of responses right under the sleeve, and the options range from programming challenges to traditional and easy to build programs like a pomodoro timer, or a reminder. There are even complete projects devoted to this situation, some of them very interesting (and I&amp;rsquo;ll list them at the end of this post), but I want to share a different approach.</description>
     </item>
