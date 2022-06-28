@@ -6,6 +6,7 @@
  tags: 
  - violence 
  - solidarity
+ - pizza
 ---
 
 Today I ordered a pizza.  I took the car and went to the restaurant to grab the order, instead of waiting for the delivery guy.  It's something I do from time to time.  I payed for the pizza and walked to the car to get back home.
@@ -16,3 +17,4 @@ Now, don't get me wrong, I really wished to help the guy, but there's this littl
 
 But, it turns out I could see from the windshield that the guy simply stared at the empty avenue, in hopes of another car passing around.  He was clearly telling the truth.  Either way, I couldn't take the risk.  No way I would give him this ride.
 
+So, in a glimpse, I opened the ashtray, and there I found some money.  A good amount, enough for him to take a cab.  I opened the window and called the guy.  He approached the car and I stretched my arm, "Does it help if you take a cab?".  He thanked me a lot and ran to the restaurant, to use their phone to call the cab service.  I was relieved.
