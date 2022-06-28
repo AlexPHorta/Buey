@@ -31,3 +31,5 @@ To help you in picking up a project idea, I'll list some sources ahead, but not 
 **[Project based ideas](https://github.com/practical-tutorials/project-based-learning): Tutorial based, and more complex project ideas, divided in different technologies and languages.**
 
 **[App ideas](https://github.com/florinpop17/app-ideas): Those are divided by difficulty level, and come with complete use cases and possible improvements and tweaks that are close to the approach I lined up here. Excellent source.**
+ 
+"VFS Digital Design Agile Project Management" by Vancouver Film School is licensed under CC BY 2.0. To view a copy of this license, visit [https://creativecommons.org/licenses/by/2.0/](https://creativecommons.org/licenses/by/2.0/).
