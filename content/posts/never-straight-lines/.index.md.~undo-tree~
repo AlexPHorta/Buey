@@ -1,5 +1,5 @@
 (undo-tree-save-format-version . 1)
-"dc081b3a263f0a12611c1c21a315c501fc646f47"
+"b1d30a1657129143a3949c607cbc9f8333e0b8d1"
 [nil nil nil nil (25274 19494 764300 613000) 0 nil]
 ([nil nil ((151 . 158) (149 . 151) (t 25274 19341 46744 649000) 136) nil (25274 19494 764297 745000) 0 nil])
 ([nil nil ((1717 . 1718) 157) nil (25274 19494 764290 929000) 0 nil])
@@ -27,5 +27,17 @@
 ([nil nil ((nil rear-nonsticky nil 99 . 100) (nil fontified nil 85 . 100) (85 . 100) 84 (t 25274 20954 893238 502000)) nil (25274 21514 487509 369000) 0 nil])
 ([nil nil ((86 . 88) (#("09" 0 2 (fontified t markdown-yaml-metadata-section (5 145) markdown-metadata-value (68 100 69 73 73 75 75 100 #<buffer index.md<never-straight-lines>>) face markdown-metadata-value-face)) . 86)) nil (25274 21514 487505 201000) 0 nil])
 ([nil nil ((89 . 91) (#("56" 0 2 (fontified t markdown-yaml-metadata-section (5 145) markdown-metadata-value (68 100 69 73 73 75 75 100 #<buffer index.md<never-straight-lines>>) face markdown-metadata-value-face)) . 89)) nil (25274 21514 487497 946000) 0 nil])
-([nil current ((102 . 114) (100 . 102) (t 25274 21514 560470 847000) 90) nil (25274 21817 325566 536000) 0 nil])
+([nil nil ((102 . 114) (100 . 102) (t 25274 21514 560470 847000) 90) nil (25274 21817 325566 536000) 0 nil])
+([nil nil ((1735 . 1736) (t 25274 21817 398404 799000) 1735) nil (25274 22211 938053 418000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 1935 . 1936) (nil fontified nil 1736 . 1936) (1736 . 1936)) nil (25274 22211 938051 549000) 0 nil])
+([nil nil ((#(" " 0 1 (fontified t)) . 1736)) nil (25274 22211 938049 652000) 0 nil])
+([nil nil ((#("\"" 0 1 (fontified nil)) . -1873) (undo-tree-id22 . -1) (undo-tree-id23 . -1) (#("\"" 0 1 (fontified t)) . 1874) (1873 . 1875) (1872 . 1874) (#("[" 0 1 (fontified nil)) . -1872) (1872 . 1873)) nil (25274 22211 938251 293000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 1934 . 1935) (nil fontified nil 1873 . 1935) (1873 . 1935) 1872) nil (25274 22234 337494 763000) 0 nil] [nil nil ((nil rear-nonsticky nil 1935 . 1936) (nil fontified nil 1874 . 1936) (1874 . 1936) 1873) ((#("https://creativecommons.org/licenses/by-nc/2.0/?ref=openverse." 0 61 (fontified nil keymap (keymap (mouse-2 . markdown-follow-thing-at-point) (follow-link . mouse-face)) face markdown-plain-url-face mouse-face markdown-highlight-face rear-nonsticky t font-lock-multiline t) 61 62 (fontified nil keymap (keymap (mouse-2 . markdown-follow-thing-at-point) (follow-link . mouse-face)) face markdown-plain-url-face mouse-face markdown-highlight-face rear-nonsticky nil font-lock-multiline t)) . 1874) (undo-tree-id24 . -61) (undo-tree-id25 . -61) (undo-tree-id26 . -61) (nil rear-nonsticky t 1935 . 1936)) (25274 22211 938029 918000) 0 nil])
+([nil nil ((#("." 0 1 (fontified t keymap (keymap (mouse-2 . markdown-follow-thing-at-point) (follow-link . mouse-face)) face markdown-plain-url-face mouse-face markdown-highlight-face rear-nonsticky t font-lock-multiline t)) . 1934)) nil (25274 22234 337491 960000) 0 nil])
+nil
+([nil nil ((#("l" 0 1 (fontified t keymap (keymap (mouse-2 . markdown-follow-thing-at-point) (follow-link . mouse-face)) face markdown-url-face invisible markdown-markup mouse-face markdown-highlight-face font-lock-multiline t)) . -1936) (undo-tree-id33 . -1) (undo-tree-id34 . -1) 1937 (1936 . 1937) (1935 . 1937) (#("(" 0 1 (fontified nil)) . -1935) (1935 . 1936)) nil (25274 22234 337489 265000) 0 nil])
+([nil nil ((#(")" 0 1 (fontified t face markdown-markup-face invisible markdown-markup rear-nonsticky t font-lock-multiline t)) . 1936) (undo-tree-id29 . 1) (undo-tree-id30 . 1) (undo-tree-id31 . -1) (undo-tree-id32 . -1)) nil (25274 22234 337482 600000) 0 nil])
+([nil nil ((#(" " 0 1 (fontified t font-lock-multiline t)) . 1998) (undo-tree-id27 . 1) (undo-tree-id28 . -1)) nil (25274 22234 337472 899000) 0 nil])
+([nil nil ((1997 . 1998) (#(")" 0 1 (fontified nil)) . -1997) (1997 . 1998)) nil (25274 22234 337458 611000) 0 nil])
+([nil current ((1999 . 2000) 1997) nil (25274 22234 337451 105000) 0 nil])
 nil

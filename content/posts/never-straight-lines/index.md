@@ -20,3 +20,5 @@ Now, don't get me wrong, I really wished to help the guy, but there's this littl
 But, it turns out I could see from the windshield that he simply stared at the empty avenue, in hopes of another car passing around.  He was clearly telling the truth.  Either way, I couldn't take the risk.  No way I would give him this ride.
 
 So, in a glimpse, I opened the ashtray, and there I found some money.  A good amount, enough for him to take a cab.  I opened the window and called him.  He approached the car and I stretched my arm, "Does it help if you take a cab?".  He thanked me a lot and ran to the restaurant, to use their phone to call the cab service.  I was relieved.
+
+"Pizza: Grilled chicken, artichoke hearts, and arugula" by ecospc is licensed under CC BY-NC 2.0. To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc/2.0/?ref=openverse](https://creativecommons.org/licenses/by-nc/2.0/?ref=openverse).
