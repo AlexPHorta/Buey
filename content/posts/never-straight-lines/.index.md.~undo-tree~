@@ -1,5 +1,5 @@
 (undo-tree-save-format-version . 1)
-"83a3f7db8f9bd222d240e9304bd3bf845f826d2a"
+"dc081b3a263f0a12611c1c21a315c501fc646f47"
 [nil nil nil nil (25274 19494 764300 613000) 0 nil]
 ([nil nil ((151 . 158) (149 . 151) (t 25274 19341 46744 649000) 136) nil (25274 19494 764297 745000) 0 nil])
 ([nil nil ((1717 . 1718) 157) nil (25274 19494 764290 929000) 0 nil])
@@ -26,5 +26,6 @@
 ([nil nil ((1173 . 1175) (#("the guy" 0 7 (fontified t)) . 1173) (t 25274 20932 385312 182000)) nil (25274 20954 820442 280000) 0 nil])
 ([nil nil ((nil rear-nonsticky nil 99 . 100) (nil fontified nil 85 . 100) (85 . 100) 84 (t 25274 20954 893238 502000)) nil (25274 21514 487509 369000) 0 nil])
 ([nil nil ((86 . 88) (#("09" 0 2 (fontified t markdown-yaml-metadata-section (5 145) markdown-metadata-value (68 100 69 73 73 75 75 100 #<buffer index.md<never-straight-lines>>) face markdown-metadata-value-face)) . 86)) nil (25274 21514 487505 201000) 0 nil])
-([nil current ((89 . 91) (#("56" 0 2 (fontified t markdown-yaml-metadata-section (5 145) markdown-metadata-value (68 100 69 73 73 75 75 100 #<buffer index.md<never-straight-lines>>) face markdown-metadata-value-face)) . 89)) nil (25274 21514 487497 946000) 0 nil])
+([nil nil ((89 . 91) (#("56" 0 2 (fontified t markdown-yaml-metadata-section (5 145) markdown-metadata-value (68 100 69 73 73 75 75 100 #<buffer index.md<never-straight-lines>>) face markdown-metadata-value-face)) . 89)) nil (25274 21514 487497 946000) 0 nil])
+([nil current ((102 . 114) (100 . 102) (t 25274 21514 560470 847000) 90) nil (25274 21817 325566 536000) 0 nil])
 nil

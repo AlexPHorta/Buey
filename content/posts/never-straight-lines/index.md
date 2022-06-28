@@ -2,6 +2,7 @@
  title: "Never in straight lines" 
  slug: never-straight-lines
  date: 2022-06-27T22:10:02-03:00
+ draft: false
  tags: 
  - violence 
  - solidarity
