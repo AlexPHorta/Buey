@@ -27,7 +27,7 @@ Numex
 Get written numbers (and money quantities) from numbers.  In Brazilian Portuguese.  This one I would really love to have enabled in my work (I have to write large money quantities from time to time).
 
 Usage
-======
+------
 
 Basic numbers:
 
