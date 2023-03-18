@@ -5,7 +5,21 @@
     <link>https://www.buey.net.br/</link>
     <description>Recent content on Buey</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 27 Jun 2022 22:10:02 -0300</lastBuildDate><atom:link href="https://www.buey.net.br/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Mar 2023 09:20:26 -0300</lastBuildDate>
+    
+	<atom:link href="https://www.buey.net.br/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projects</title>
+      <link>https://www.buey.net.br/projects/</link>
+      <pubDate>Thu, 16 Mar 2023 09:20:26 -0300</pubDate>
+      
+      <guid>https://www.buey.net.br/projects/</guid>
+      <description>NSEW Virtual Keyboard NSEW is a virtual keyboard designed for text insertion with the directional keys of a remote controller (up, right, down, left and enter) or a numpad. The normal keyboard layout (a retangular box) is clumsy when used with this kind of device or in these specific conditions.
+NSEW solves this situation minimizing the number of strokes needed to select a specific character, in accordance with the common letter frequency of the selected language (English is the default).</description>
+    </item>
+    
     <item>
       <title>Never in straight lines</title>
       <link>https://www.buey.net.br/posts/never-straight-lines/</link>
@@ -22,7 +36,7 @@ Then, this guy approached me, a total stranger. He had an unusual request to mak
       <pubDate>Sat, 23 Apr 2022 09:56:02 -0300</pubDate>
       
       <guid>https://www.buey.net.br/posts/programming-project-idea/</guid>
-      <description>The most common question I read in every thread, and I imagine you already have too, is &amp;ldquo;I&amp;rsquo;m new at programming and I want to practice, can someone give me some project ideas?&amp;rdquo;.
+      <description>The most common question I read in every thread, and I imagine you already have too, is &amp;ldquo;I&amp;rsquo;m new at programming and I want to practice, can someone give me some project ideas?&amp;quot;.
 Usually people have a very long list of responses right under the sleeve, and the options range from programming challenges to traditional and easy to build programs like a pomodoro timer, or a reminder. There are even complete projects devoted to this situation, some of them very interesting (and I&amp;rsquo;ll list them at the end of this post), but I want to share a different approach.</description>
     </item>
     

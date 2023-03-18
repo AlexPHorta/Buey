@@ -111,3 +111,8 @@ pygmentsCodefencesGuessSyntax = true
     name = "Tags"
     url = "tags"
     weight = 3
+
+[[menu.main]]
+    name = "Projects"
+    url = "projects"
+    weight = 3
