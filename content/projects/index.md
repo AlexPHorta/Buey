@@ -20,3 +20,40 @@ The user presses the directional keys until the desired character is under the c
 [Live preview.](https://www.buey.net.br/nsew/ "NSEW Virtual Keyboard live preview")
 
 [Repository of the project.](https://codeberg.org/Buey/NSEW-Keyboard/ "NSEW Virtual Keyboard on Codeberg")
+
+Numex
+======
+
+Get written numbers (and money quantities) from numbers.  In Brazilian Portuguese.  This one I would really love to have enabled in my work (I have to write large money quantities from time to time).
+
+Usage
+======
+
+Basic numbers:
+
+```
+>>> import numex
+>>> numex.numeroPorExtenso(2398764)
+>>> 'dois milhões, trezentos e noventa e oito mil, setecentos e sessenta e quatro'
+```
+
+Money quantities (brazilian Real):
+
+```
+>>> import dindin
+>>> dindin.granaPorExtenso('R$897123')
+>>> 'oitocentos e noventa e sete mil, cento e vinte e três reais'
+```
+
+Also with cents:
+
+```
+>>> import dindin
+>>> dindin.granaPorExtenso('R$23,27')
+>>> 'vinte e três reais e vinte e sete centavos'
+```
+
+License
+=========
+
+MIT
