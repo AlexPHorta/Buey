@@ -53,7 +53,5 @@ Also with cents:
 >>> 'vinte e três reais e vinte e sete centavos'
 ```
 
-License
-=========
+[Repository of the project.](https://codeberg.org/Buey/Numex/ "Numex number converter.")
 
-MIT
