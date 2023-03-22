@@ -5,10 +5,21 @@
     <link>https://www.buey.net.br/posts/</link>
     <description>Recent content in Posts on Buey</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 27 Jun 2022 22:10:02 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jun 2022 22:53:19 -0300</lastBuildDate>
     
 	<atom:link href="https://www.buey.net.br/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Interesting cast issue in Java</title>
+      <link>https://www.buey.net.br/posts/interesting-cast-issue-java/</link>
+      <pubDate>Mon, 27 Jun 2022 22:53:19 -0300</pubDate>
+      
+      <guid>https://www.buey.net.br/posts/interesting-cast-issue-java/</guid>
+      <description>Some days ago I was convinced by my friend Fernando to start learning Java. I wondered, &amp;ldquo;Why not?&amp;quot;. While examining the first chapters of Java - A Beginner&amp;rsquo;s Guide, I stumbled upon this interesting &amp;ldquo;issue&amp;rdquo;.
+Because of Java&amp;rsquo;s automatic type promotion in expressions, an aparently correct code can cause compilation errors. See&amp;hellip;
+byte b = 20; b = b * 2; // This will trigger a compilation error. You can&amp;#39;t assign an int to a byte.</description>
+    </item>
     
     <item>
       <title>Never in straight lines</title>

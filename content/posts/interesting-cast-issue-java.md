@@ -2,7 +2,7 @@
 title: "Interesting cast issue in Java"
 slug: interesting-cast-issue-java
 date: 2022-06-27T22:53:19-03:00
-draft: true
+draft: false
 ---
 
 Some days ago I was convinced by my friend Fernando to start learning Java.  I wondered, "Why not?".  While examining the first chapters of _Java - A Beginner's Guide_, I stumbled upon this interesting "issue".
@@ -33,5 +33,5 @@ So I wondered, "Maybe this will work the same with a byte?".  And it turns out i
 
 ```
 byte b = 20;
-b += 5;    // Works like a charm.
+b *= 2;    // Works like a charm.
 ```
