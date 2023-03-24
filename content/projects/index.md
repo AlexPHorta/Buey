@@ -23,6 +23,15 @@ The NSEW Virtual Keyboard was developed in plain Javascript, and I intend to mak
 
 [Repository of the project.](https://codeberg.org/Buey/NSEW-Keyboard/ "NSEW Virtual Keyboard on Codeberg")
 
+Burglar
+=========
+
+Burglar is a *match-3* game I created some time ago. It's somewhat peculiar because it uses a circular grid for the stones, instead of a retangular one. Unfortunately, it's still not finished, and probably will never be (at least this version). Created with Pygame. Ah, and it's legacy software, alright? When (if) I rewrite it I'll properly test it.
+
+{{< youtube id="CwcwrPgyltA" title="Burglar Game Playing">}}
+
+[Repository of the project.](https://codeberg.org/Buey/Burglar)
+
 Numex
 ======
 
