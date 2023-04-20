@@ -11,6 +11,17 @@
     
     
     <item>
+      <title>Proteção Excessiva</title>
+      <link>https://www.buey.net.br/posts/protecao-excessiva/</link>
+      <pubDate>Wed, 19 Apr 2023 23:53:20 +0000</pubDate>
+      
+      <guid>https://www.buey.net.br/posts/protecao-excessiva/</guid>
+      <description>Proteção Excessiva A diferença entre o remédio e o veneno está na dose. Não é assim que dizem?
+Esta postagem é um desabafo. Há algum tempo que venho tendo problemas com sistemas de controle de autorização (OAuth), embora não tenha certeza se esses problemas sejam específicos do protocolo.
+Dia desses eu tentei criar logins em diversos sites de emprego (pois é, na busca). Para criar esses logins eu utilizei minha autorização de acesso do e-mail que utilizo para todas as tarefas relativas a este site.</description>
+    </item>
+    
+    <item>
       <title>Rebuilding Burglar</title>
       <link>https://www.buey.net.br/posts/rebuilding-burglar/</link>
       <pubDate>Tue, 21 Mar 2023 21:17:20 +0000</pubDate>
