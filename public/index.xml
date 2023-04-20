@@ -69,5 +69,16 @@ Usually people have a very long list of responses right under the sleeve, and th
       <description>Buey is my brainchild. I&amp;rsquo;m Alexandre Paloschi Horta, an aspiring developer. I program in Python, and I&amp;rsquo;m also getting my feet wet in Javascript. Besides that, I&amp;rsquo;m member of the Doom/Death Metal band Macacos da Manchúria, and I also write short stories, but they&amp;rsquo;re in my native language (portuguese), so no place for them in here. Last, and most important of all, I&amp;rsquo;m the husband of my dearest Thays and proud father of Bárbara (my beloved pepper jello) and Lavínia (my beloved star in the skies, someday we&amp;rsquo;ll meet again).</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://www.buey.net.br/posts/til-django/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.buey.net.br/posts/til-django/</guid>
+      <description>Basic workflow:
+Create a view;
+Wire the views in /urls.py, by creating path() calls;</description>
+    </item>
+    
   </channel>
 </rss>
