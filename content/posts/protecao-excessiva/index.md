@@ -4,7 +4,6 @@ date: 2023-04-19T23:53:20
 draft: false
 slug: protecao-excessiva
 ---
-# Proteção Excessiva
 
 A diferença entre o remédio e o veneno está na dose.  Não é assim que dizem?
 
