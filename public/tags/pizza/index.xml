@@ -5,6 +5,8 @@
     <link>https://www.buey.net.br/tags/pizza/</link>
     <description>Recent content in pizza on Buey</description>
     <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>buey.horta@proton.me (Alexandre Paloschi)</managingEditor>
+    <webMaster>buey.horta@proton.me (Alexandre Paloschi)</webMaster>
     <lastBuildDate>Mon, 27 Jun 2022 22:10:02 -0300</lastBuildDate>
     
 	<atom:link href="https://www.buey.net.br/tags/pizza/index.xml" rel="self" type="application/rss+xml" />
@@ -14,7 +16,7 @@
       <title>Never in straight lines</title>
       <link>https://www.buey.net.br/posts/never-straight-lines/</link>
       <pubDate>Mon, 27 Jun 2022 22:10:02 -0300</pubDate>
-      
+      <author>buey.horta@proton.me (Alexandre Paloschi)</author>
       <guid>https://www.buey.net.br/posts/never-straight-lines/</guid>
       <description>Today I ordered a pizza. I took the car and went to the restaurant to grab the order, instead of waiting for the delivery guy. It&amp;rsquo;s something I do from time to time. I payed for the pizza and walked to the car to get back home.
 Then, this guy approached me, a total stranger. He had an unusual request to make. He asked me to give him a ride, so he could try to catch a bus somewhere else (the restaurant is located in a neighborhood not well served by bus lines).</description>

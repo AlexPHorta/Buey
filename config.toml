@@ -47,7 +47,7 @@ pygmentsCodefencesGuessSyntax = true
 [Author]
   name = "Alexandre Paloschi"
   website = "https://www.buey.net.br"
-  #email = "youremail@domain.com"
+  email = "buey.horta@proton.me"
   #facebook = "username"
   github = "AlexPHorta"
   #gitlab = "username"
@@ -69,7 +69,7 @@ pygmentsCodefencesGuessSyntax = true
   #telegram = "username"
   #500px = "username"
   #codepen = "username"
-  #mastodon = "url"
+  mastodon = "@buey@social.anoxinon.de"
   #kaggle = "username"
   #weibo = "username"
   #slack = "username"

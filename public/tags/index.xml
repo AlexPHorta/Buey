@@ -5,6 +5,8 @@
     <link>https://www.buey.net.br/tags/</link>
     <description>Recent content in Tags on Buey</description>
     <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>buey.horta@proton.me (Alexandre Paloschi)</managingEditor>
+    <webMaster>buey.horta@proton.me (Alexandre Paloschi)</webMaster>
     <lastBuildDate>Mon, 27 Jun 2022 22:10:02 -0300</lastBuildDate>
     
 	<atom:link href="https://www.buey.net.br/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -14,7 +16,7 @@
       <title>pizza</title>
       <link>https://www.buey.net.br/tags/pizza/</link>
       <pubDate>Mon, 27 Jun 2022 22:10:02 -0300</pubDate>
-      
+      <author>buey.horta@proton.me (Alexandre Paloschi)</author>
       <guid>https://www.buey.net.br/tags/pizza/</guid>
       <description></description>
     </item>
@@ -23,7 +25,7 @@
       <title>solidarity</title>
       <link>https://www.buey.net.br/tags/solidarity/</link>
       <pubDate>Mon, 27 Jun 2022 22:10:02 -0300</pubDate>
-      
+      <author>buey.horta@proton.me (Alexandre Paloschi)</author>
       <guid>https://www.buey.net.br/tags/solidarity/</guid>
       <description></description>
     </item>
@@ -32,7 +34,7 @@
       <title>violence</title>
       <link>https://www.buey.net.br/tags/violence/</link>
       <pubDate>Mon, 27 Jun 2022 22:10:02 -0300</pubDate>
-      
+      <author>buey.horta@proton.me (Alexandre Paloschi)</author>
       <guid>https://www.buey.net.br/tags/violence/</guid>
       <description></description>
     </item>
@@ -41,7 +43,7 @@
       <title>beginner</title>
       <link>https://www.buey.net.br/tags/beginner/</link>
       <pubDate>Sat, 23 Apr 2022 09:56:02 -0300</pubDate>
-      
+      <author>buey.horta@proton.me (Alexandre Paloschi)</author>
       <guid>https://www.buey.net.br/tags/beginner/</guid>
       <description></description>
     </item>
@@ -50,7 +52,7 @@
       <title>ideas</title>
       <link>https://www.buey.net.br/tags/ideas/</link>
       <pubDate>Sat, 23 Apr 2022 09:56:02 -0300</pubDate>
-      
+      <author>buey.horta@proton.me (Alexandre Paloschi)</author>
       <guid>https://www.buey.net.br/tags/ideas/</guid>
       <description></description>
     </item>
@@ -59,7 +61,7 @@
       <title>programming</title>
       <link>https://www.buey.net.br/tags/programming/</link>
       <pubDate>Sat, 23 Apr 2022 09:56:02 -0300</pubDate>
-      
+      <author>buey.horta@proton.me (Alexandre Paloschi)</author>
       <guid>https://www.buey.net.br/tags/programming/</guid>
       <description></description>
     </item>
@@ -68,7 +70,7 @@
       <title>projects</title>
       <link>https://www.buey.net.br/tags/projects/</link>
       <pubDate>Sat, 23 Apr 2022 09:56:02 -0300</pubDate>
-      
+      <author>buey.horta@proton.me (Alexandre Paloschi)</author>
       <guid>https://www.buey.net.br/tags/projects/</guid>
       <description></description>
     </item>

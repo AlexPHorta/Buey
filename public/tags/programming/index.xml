@@ -5,6 +5,8 @@
     <link>https://www.buey.net.br/tags/programming/</link>
     <description>Recent content in programming on Buey</description>
     <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>buey.horta@proton.me (Alexandre Paloschi)</managingEditor>
+    <webMaster>buey.horta@proton.me (Alexandre Paloschi)</webMaster>
     <lastBuildDate>Sat, 23 Apr 2022 09:56:02 -0300</lastBuildDate>
     
 	<atom:link href="https://www.buey.net.br/tags/programming/index.xml" rel="self" type="application/rss+xml" />
@@ -14,7 +16,7 @@
       <title>I need a programming project idea</title>
       <link>https://www.buey.net.br/posts/programming-project-idea/</link>
       <pubDate>Sat, 23 Apr 2022 09:56:02 -0300</pubDate>
-      
+      <author>buey.horta@proton.me (Alexandre Paloschi)</author>
       <guid>https://www.buey.net.br/posts/programming-project-idea/</guid>
       <description>The most common question I read in every thread, and I imagine you already have too, is &amp;ldquo;I&amp;rsquo;m new at programming and I want to practice, can someone give me some project ideas?&amp;quot;.
 Usually people have a very long list of responses right under the sleeve, and the options range from programming challenges to traditional and easy to build programs like a pomodoro timer, or a reminder. There are even complete projects devoted to this situation, some of them very interesting (and I&amp;rsquo;ll list them at the end of this post), but I want to share a different approach.</description>
