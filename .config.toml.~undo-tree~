@@ -1,5 +1,5 @@
 (undo-tree-save-format-version . 1)
-"e84e4a4dc3d23e9169e2f516e777c53c0389ce7f"
+"e91d88f152d05d9dfe4a056cd4890de3e74c31e5"
 [nil nil nil nil (25619 49872 275015 970000) 0 nil]
 ([nil nil ((2746 . 2747) (t 25190 36498 696291 685000) 2746) nil (25619 49872 275013 473000) 0 nil])
 ([nil nil ((2747 . 2748) 2747) nil (25619 49872 275010 409000) 0 nil])
@@ -20,5 +20,7 @@
 ([nil nil ((2045 . 2057) (2033 . 2045)) nil (25688 8187 965518 271000) 0 nil])
 ([nil nil ((#("#" 0 1 (fontified t face font-lock-comment-delimiter-face)) . 2020)) nil (25688 8187 965512 519000) 0 nil])
 ([nil nil ((#("#" 0 1 (fontified t face font-lock-comment-delimiter-face)) . 1415) (t 25688 8188 67070 106000)) nil (25688 8245 830085 736000) 0 nil])
-([nil current ((1442 . 1444) (#("e" 0 1 (fontified t face font-lock-string-face)) . -1442) (undo-tree-id0 . -1) (undo-tree-id1 . -1) (#("m" 0 1 (fontified t face font-lock-string-face)) . -1443) (undo-tree-id2 . -1) (undo-tree-id3 . -1) 1444 (1424 . 1444) (#("youremail@domain.com" 0 20 (fontified t face font-lock-string-face)) . 1424) (undo-tree-id4 . -19) (undo-tree-id5 . -19) (undo-tree-id6 . -19) (undo-tree-id7 . -20) (undo-tree-id8 . -19) (undo-tree-id9 . -19) 1443) nil (25688 8245 830079 43000) 0 nil])
+([nil nil ((1442 . 1444) (#("e" 0 1 (fontified t face font-lock-string-face)) . -1442) (undo-tree-id0 . -1) (undo-tree-id1 . -1) (#("m" 0 1 (fontified t face font-lock-string-face)) . -1443) (undo-tree-id2 . -1) (undo-tree-id3 . -1) 1444 (1424 . 1444) (#("youremail@domain.com" 0 20 (fontified t face font-lock-string-face)) . 1424) (undo-tree-id4 . -19) (undo-tree-id5 . -19) (undo-tree-id6 . -19) (undo-tree-id7 . -20) (undo-tree-id8 . -19) (undo-tree-id9 . -19) 1443) nil (25688 8245 830079 43000) 0 nil])
+([nil nil ((#("@social.anoxinon.de\"" 0 20 (fontified t face font-lock-string-face)) . 2036) (t 25688 8245 879178 749000)) nil (25688 8613 991683 526000) 0 nil])
+([nil current ((2036 . 2037) (#("\"" 0 1 (fontified nil)) . -2036) (2036 . 2037) (#("\"" 0 1 (fontified nil face font-lock-string-face)) . -2036) (2036 . 2037)) nil (25688 8613 991676 239000) 0 nil])
 nil
