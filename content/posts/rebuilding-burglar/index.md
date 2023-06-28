@@ -15,6 +15,8 @@ Below you can see a video I made of the game playing.  It gives you the general 
 
 {{< youtube id="CwcwrPgyltA" title="Burglar Game Playing">}}
 
-Well, since I really like the concept I decided to remake Burglar, but now using a Javascript framework (Phaser).  This will allow the program to be played in web browsers and other devices.  Only this time I'll properly learn the framework before attempting to rebuild the software.
+<s>Well, since I really like the concept I decided to remake Burglar, but now using a Javascript framework (Phaser).  This will allow the program to be played in web browsers and other devices.  Only this time I'll properly learn the framework before attempting to rebuild the software.</s>
+
+Update: No, I'll improve the code in the Python version first. Then, I'll properly learn Javascript, then the framework, and then rebuild the game. First things first!
 
 In case you liked the game, you can download it at the [repository](https://codeberg.org/Buey/Burglar).  If you know Javascript stuff, your help is more than welcome. Drop me a line so we can get this ball rolling!
