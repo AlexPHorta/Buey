@@ -18,38 +18,7 @@ Este trabalho visa traçar um panorama sobre a ética digital nas empresas, sua 
 
 **PALAVRAS-CHAVE**: 1. Ética; 2. Ética digital; 3. Tecnologia.
 
-## SUMÁRIO
-
-1 [INTRODUÇÃO][#introducao]
-2 GÊNESE DA ÉTICA
-2.1 MORAL
-2.2 ÉTICA
-2.2.1 A ÉTICA NA ANTIGUIDADE
-2.2.1.1 SÓCRATES
-2.2.1.2 PLATÃO
-2.2.1.3 ARISTÓTELES
-2.2.2 A ÉTICA NA IDADE MÉDIA
-2.2.2.1 AGOSTINHO DE HIPONA
-2.2.2.2 TOMÁS DE AQUINO
-2.2.3 A ÉTICA MODERNA
-2.2.3.1 MAQUIAVEL
-2.2.3.2 DAVID HUME
-2.2.3.3 IMMANUEL KANT
-3 ÉTICA CONTEMPORÂNEA
-4 A ÉTICA EMPRESARIAL
-5 A ÉTICA DIGITAL
-5.1 PRIVACIDADE
-5.2 SEGURANÇA
-5.3 “INTELIGÊNCIA” ARTIFICIAL
-5.3.1 INTERATIVIDADE
-5.4 MANIPULAÇÃO E VIESES
-5.5 CONCENTRAÇÃO DE MERCADOS
-5.6 PROPRIEDADE DE DADOS
-6 CONCLUSÃO
-7 REFERÊNCIAS
-
-
-<h2 id="introducao">1 INTRODUÇÃO</h2>
+## 1 INTRODUÇÃO
 
 Desde o início do que conhecemos como civilização ocidental, o ser humano procura entender a realidade e nela movimentar-se, seja pelas lentes da moral, ou da ética. Nesses dois milênios, a humanidade conheceu um grande desenvolvimento em sua compreensão sobre problemas de ordem moral, que nem sempre foram vistos como problemas, e sobre o papel do homem e das instituições na tarefa de mitiga-los.
 
@@ -65,13 +34,13 @@ Em nossos dias, a explosão do desenvolvimento da tecnologia digital, com as rec
 
 Para a nossa análise a respeito da ética digital nas empresas, é interessante fazermos uma síntese das origens do conceito de ética, com a consequente distinção entre as concepções de moral e ética.
 
-No denominado “período axial”1, compreendido entre os séculos VI e IV antes da Era Cristã, a humanidade conheceu uma mudança elementar em seu modo de compreender o mundo e a realidade. Os grandes esquemas mitológicos, que explicavam a origem do mundo, do homem e da civilização, gradualmente foram perdendo espaço para sistemas morais que partiam de uma tentativa racional de entender quais os fundamentos da correta conduta dos homens.
+No denominado “período axial”, compreendido entre os séculos VI e IV antes da Era Cristã, a humanidade conheceu uma mudança elementar em seu modo de compreender o mundo e a realidade. Os grandes esquemas mitológicos, que explicavam a origem do mundo, do homem e da civilização, gradualmente foram perdendo espaço para sistemas morais que partiam de uma tentativa racional de entender quais os fundamentos da correta conduta dos homens.
 
 Até esse momento, as crenças explicavam e regiam todos os aspectos da vida social e forneciam justificativa para o exercício do poder. Após, principalmente com o advento da filosofia e o surgimento das religiões monoteístas, a vida ética passou a ser pensada de maneira desvinculada das considerações mitológicas.
 
 ### 2.1 MORAL
 
-Segundo Braga Júnior2, "moral é um conjunto de normas, regras, valores e costumes que rege uma sociedade ou um grupo de indivíduos".
+Segundo Braga Júnior, "moral é um conjunto de normas, regras, valores e costumes que rege uma sociedade ou um grupo de indivíduos".
 
 Essas normas, regras e costumes são aceitas por um determinado grupo social, em um determinado período, como o parâmetro para a adequação e aceitabilidade das ações e comportamentos adotados pelos membros desse mesmo grupo. Dessa definição depreende-se que a moral é histórica, ou seja está circunscrita a um determinado momento no espaço e no tempo. Além disso, a moral tem sua gênese num processo orgânico, informal, derivado das reiteradas soluções que essa comunidade encontra para conflitos havidos no grupo.
 
@@ -87,13 +56,13 @@ Considera-se como a base do conhecimento ocidental a produção dos filósofos g
 
 ##### 2.2.1.1 SÓCRATES
 
-Sócrates é considerado o precursor da filosofia moderna. Sua doutrina coloca a felicidade (definida de maneira particular como o exercício voluntário da virtude) como o principal objetivo do ser humano e que a alma humana (definida como a capacidade de entender, conhecer a essência das coisas) era o objeto de estudo. Dispor-se a conhecer o bem e, conhecendo-o, não deixar de praticá-lo4.
+Sócrates é considerado o precursor da filosofia moderna. Sua doutrina coloca a felicidade (definida de maneira particular como o exercício voluntário da virtude) como o principal objetivo do ser humano e que a alma humana (definida como a capacidade de entender, conhecer a essência das coisas) era o objeto de estudo. Dispor-se a conhecer o bem e, conhecendo-o, não deixar de praticá-lo.
 
 ##### 2.2.1.2 PLATÃO
 
 Discípulo de Sócrates, Platão legou-nos em boa parte os ensinamentos filosóficos do mestre e deu continuidade à concepção de que a alma racional é o fundamento do comportamento humano. Sua contribuição, entretanto, difere por considerar dois planos distintos para o ser humano: o sensível e o inteligível.
 
-A atividade intelectual do homem, para Platão, deveria se voltar para a prática de ações fundamentadas na disposição essencial do ser humano, nossa capacidade racional. Quando, ao contrário, o homem se entrega às pulsões instintivas ou passionais do corpo ele age de forma contrária à natureza da alma e se torna cativo dessas mesmas paixões5.
+A atividade intelectual do homem, para Platão, deveria se voltar para a prática de ações fundamentadas na disposição essencial do ser humano, nossa capacidade racional. Quando, ao contrário, o homem se entrega às pulsões instintivas ou passionais do corpo ele age de forma contrária à natureza da alma e se torna cativo dessas mesmas paixões.
 
 ##### 2.2.1.3 ARISTÓTELES
 
@@ -101,7 +70,7 @@ Considerado um dos pilares do pensamento ocidental, Aristóteles partia da conce
 
 Aristóteles distingue as virtudes éticas, ou virtudes morais, as que traduzem essa busca pela justa medida nos impulsos e paixões, e também as virtudes dianoéticas, ou virtudes intelectuais, ligadas à vida prática e que tratam da apreensão pelo homem do conhecimento verdadeiro e indubitável do bem supremo, para que seja possível saber como e porque agir.
 
-Além disso, Aristóteles sistematiza a psicologia do ato moral, distinguindo os seguintes elementos: a deliberação (a capacidade de vislumbrar os meios necessários à consecução de determinados fins), a escolha (a decisão de se dispor a agir de determinada maneira) e a volição (a plena disposição de agir)6.
+Além disso, Aristóteles sistematiza a psicologia do ato moral, distinguindo os seguintes elementos: a deliberação (a capacidade de vislumbrar os meios necessários à consecução de determinados fins), a escolha (a decisão de se dispor a agir de determinada maneira) e a volição (a plena disposição de agir).
 
 #### 2.2.2 A ÉTICA NA IDADE MÉDIA
 
@@ -115,7 +84,7 @@ A ética de Agostinho de Hipona concilia concepções de Platão com a religiosi
 
 O homem, na cosmovisão cristã, quando da queda, foi expulso do paraíso. Com isso, as ações do homem, que antes eram ingênuas (eis que não concebia o bem e o mal), passaram a ser passíveis de julgamento, uma vez que agora ele sabe (distingue o bem do mal). Essa condição da alma, separada de Deus e almejando Seu reencontro, coloca a santidade como objetivo máximo do cristão. Agindo moralmente, de acordo com a prescrição divina, o homem precisa ativamente opor-se ao pecado (ação contra Deus ou que Lhe causaria ofensa).
 
-Para Agostinho, Deus criou todas as coisas em harmonia, nada foi criado que não seja bom, ou seja, ontologicamente o mal não existe. Acontecimentos que o intelecto humano interpreta como mal são assim vistos por causa da incapacidade do ser humano de alcançar um entendimento completo sobre os desígnios divinos. A fé, nesse contexto, é o componente fundamental para que o cristão permaneça agindo em acordo com os planos de Deus7.
+Para Agostinho, Deus criou todas as coisas em harmonia, nada foi criado que não seja bom, ou seja, ontologicamente o mal não existe. Acontecimentos que o intelecto humano interpreta como mal são assim vistos por causa da incapacidade do ser humano de alcançar um entendimento completo sobre os desígnios divinos. A fé, nesse contexto, é o componente fundamental para que o cristão permaneça agindo em acordo com os planos de Deus.
 
 Ainda segundo Agostinho, a fé, concedida pela graça divina, é um dom dos predestinados, dos escolhidos. A liberdade é o servir a Deus, submeter-se ao plano divino é o que de melhor a alma humana pode aspirar.
 
@@ -141,7 +110,7 @@ Desse período, destacamos de forma breve as contribuições de Maquiavel, com u
 
 Nicolau Maquiavel desenvolveu em sua obra-prima, O Príncipe, uma reflexão política e ética voltada para o sujeito político (aquele que participa da vida pública, ocupando um cargo na administração da cidade/nação).
 
-Desvencilhando-se da influência da moral cristã, Maquiavel traça uma linha clara entre a ética que se observa no comum do povo, e aquela que deve ser abraçada pelo gestor da coisa pública. A ética do príncipe (o gestor) baseia-se na manutenção do poder, pura e simplesmente. O bem comum, a paz do reino, a estima, bem como o desprezo ou o temor, do povo, dos soldados, dos poderosos, o exercício da benevolência ou da crueldade, tudo está vinculado ao crivo, tender ou não a facilitar a manutenção do poder9.
+Desvencilhando-se da influência da moral cristã, Maquiavel traça uma linha clara entre a ética que se observa no comum do povo, e aquela que deve ser abraçada pelo gestor da coisa pública. A ética do príncipe (o gestor) baseia-se na manutenção do poder, pura e simplesmente. O bem comum, a paz do reino, a estima, bem como o desprezo ou o temor, do povo, dos soldados, dos poderosos, o exercício da benevolência ou da crueldade, tudo está vinculado ao crivo, tender ou não a facilitar a manutenção do poder.
 
 ##### 2.2.3.2 DAVID HUME
 
@@ -151,7 +120,7 @@ Hume classifica os conteúdos que a mente humana detém como percepções, que e
 
 Para ele, os princípios éticos não são algo que “deve ser”, dirigido à razão e à vontade, mas sim inclinações do espírito humano, que representam os pressupostos básicos da conduta humana. A ética deve ser fundamentada nos princípios da natureza humana, as paixões e os sentimentos. A razão, apesar de capaz de descobrir as verdades contidas no mundo, não é suficiente para provocar no homem nem aversão, nem aprovação, e, por isso, não pode influenciar nossas emoções e servir de lastro para uma ação moral.
 
-Desse modo, o papel da razão é secundário, somente as paixões e emoções sendo capazes de nos fazer distinguir entre o bem e o mal. Para Hume, uma ação, para ser considerada ética, deve buscar um equilíbrio entre dois sentimentos antagônicos, sendo os principais a dor/prazer e a benevolência/egoísmo. Determinar a busca desse equilíbrio é papel de um elemento por ele chamado de interesse público10.
+Desse modo, o papel da razão é secundário, somente as paixões e emoções sendo capazes de nos fazer distinguir entre o bem e o mal. Para Hume, uma ação, para ser considerada ética, deve buscar um equilíbrio entre dois sentimentos antagônicos, sendo os principais a dor/prazer e a benevolência/egoísmo. Determinar a busca desse equilíbrio é papel de um elemento por ele chamado de interesse público.
 
 ##### 2.2.3.3 IMMANUEL KANT
 
@@ -160,7 +129,7 @@ maiores estudiosos da moral de todos os tempos. Sua filosofia é comumente refer
 
 Para Kant, a moral é oriunda da razão. O indivíduo deve interpretar a realidade de forma independente e, a partir dessa atividade, elaborar para si princípios morais que nortearão sua conduta. Um comportamento moralmente digno parte, portanto, da observância estrita pelo indivíduo daquelas mesmas regras que ele, por meio de sua análise racional, criou para si, e nunca de emoções ou desejos.
 
-A criação desses princípios morais, entretanto, deve observar alguns critérios. O principal deles, a pedra de toque da filosofia de Kant, é o chamado imperativo categórico11. Trata-se de uma concepção universal de dever inerente a todos os seres racionais, e que requer do ser humano agir com base em um princípio que possa ser considerado como uma lei universal, sem que nele se encontre contradição. Uma vez que o princípio que rege determinada ação leve a uma contradição lógica quando considerado de forma universal, essa ação deve ser considerada moralmente proibida.
+A criação desses princípios morais, entretanto, deve observar alguns critérios. O principal deles, a pedra de toque da filosofia de Kant, é o chamado **imperativo categórico**. Trata-se de uma concepção universal de dever inerente a todos os seres racionais, e que requer do ser humano agir com base em um princípio que possa ser considerado como uma lei universal, sem que nele se encontre contradição. Uma vez que o princípio que rege determinada ação leve a uma contradição lógica quando considerado de forma universal, essa ação deve ser considerada moralmente proibida.
 
 Ainda, como critério de validade para o imperativo categórico, o ser humano deve ser considerado como fim em si, jamais sendo utilizado como meio para a obtenção de algo. Kant enfatiza a dignidade e a autonomia inerentes do indivíduo, condenando a exploração ou o uso de pessoas para ganhos pessoais.
 
@@ -180,13 +149,14 @@ Nos dias de hoje, com os desafios trazidos pela vida moderna, pensadores examina
 
 O ecossistema empresarial é naturalmente dado a desafios éticos. A combinação de necessidade de obtenção de lucro, concorrência agressiva e, por que não?, ou mesmo principalmente, o exercício de poder, faz com que esse fenômeno social seja terreno fértil para ignorar-se limites.
 
-Entretanto, numa abordagem eminentemente prática, a recente valorização de questões éticas nos negócios decorreu da constatação pelos gestores de que escândalos relacionados a condutas não éticas por parte das empresas, quando divulgados pela imprensa ou tornados virais pelas redes sociais, trazem consequências graves para a reputação da organização. Nenhum dos atores que circundam o estabelecimento, sejam fornecedores, empregados, clientes ou mesmo concorrentes (até certo ponto) quer ver-se relacionando com uma instituição que apresenta condutas desalinhadas de seus valores12.
+Entretanto, numa abordagem eminentemente prática, a recente valorização de questões éticas nos negócios decorreu da constatação pelos gestores de que escândalos relacionados a condutas não éticas por parte das empresas, quando divulgados pela imprensa ou tornados virais pelas redes sociais, trazem consequências graves para a reputação da organização. Nenhum dos atores que circundam o estabelecimento, sejam fornecedores, empregados, clientes ou mesmo concorrentes (até certo ponto) quer ver-se relacionando com uma instituição que apresenta condutas desalinhadas de seus valores.
 
 Como ramo do conhecimento, a ética empresarial estuda as normas éticas observadas na rotina das atividades de organizações empresariais. Essas normas podem ser analisadas por três prismas: micro (o dos indivíduos), meso (o da organização em si), e macro (o do contexto social e econômico). Para fins deste trabalho, concentrar-nos-emos apenas no nível meso.
 
 Nesse nível, três são as questões principais a serem observadas para a análise ética de uma decisão empresarial: quais as leis que regem o determinado comportamento da organização; como a empresa deve proceder em questões que ultrapassam a influência legal; como a empresa lida com conflitos entre interesses pessoais e organizacionais.
 
 Como qualquer outra disciplina, a ética empresarial também passou por diversas fases.
+
 Num primeiro momento, com a revolução industrial, a atenção dos estudiosos se volta para a questão dos preços praticados pelas empresas (sempre altos, pelo visto) e da mecanização dos processos de produção, com a consequente alienação do trabalhador relativa à produção da qual este participa.
 
 A expansão dos mercados, nos anos de 1970, trouxe à tona o conflito entre maneiras diversas de negociação, dos países do Ocidente e dos mercados recentemente redescobertos da Ásia e do Oriente Médio. Além desse aspecto, o crescimento da percepção crítica dos clientes com relação aos processos industriais e comerciais trouxe novas práticas de relacionamento das empresas com os consumidores, principalmente nas áreas de marketing.
@@ -199,9 +169,9 @@ Porém, um tema sempre desponta de qualquer análise. Algumas pessoas colocam em
 
 O avanço das tecnologias observado nos últimos anos trouxe consigo uma série de desafios éticos que deverão ser enfrentados pela sociedade. Inovações como o big data, a inteligência artificial, a internet das coisas, todas trazem implicações éticas sérias em termos de privacidade e segurança do cidadão.
 
-Nesse cenário, entende-se como ética digital o conjunto de diretrizes que orientam o comportamento e as decisões a serem tomados pelas empresas no uso da tecnologia. Mais especificamente, trata-se de um corpo de princípios e valores morais que direciona a criação, a configuração e o uso de tecnologias digitais13.
+Nesse cenário, entende-se como ética digital o conjunto de diretrizes que orientam o comportamento e as decisões a serem tomados pelas empresas no uso da tecnologia. Mais especificamente, trata-se de um corpo de princípios e valores morais que direciona a criação, a configuração e o uso de tecnologias digitais.
 
-Dois aspectos, correlacionados, são dignos de nota e devem ser levados em conta por todos os atores afetados pelas novidades tecnológicas. O estritamente empresarial, que trata da forma como as empresas devem gerir as ferramentas disponibilizadas por essas tecnologias, e o aspecto individual, em que é necessário levar em conta a facilidade com que o digital amplia as consequências das ações nele exercidas. Maggiolini, citando Bauman14, aponta que enquanto nossos antepassados eram testemunhas diretas das consequências de todos seus atos, o homem moderno, agindo na ágora digital, terá seus atos divulgados e mesmo amplificados para o mundo inteiro, com consequências imprevisíveis e, às vezes, perigosas.
+Dois aspectos, correlacionados, são dignos de nota e devem ser levados em conta por todos os atores afetados pelas novidades tecnológicas. O estritamente empresarial, que trata da forma como as empresas devem gerir as ferramentas disponibilizadas por essas tecnologias, e o aspecto individual, em que é necessário levar em conta a facilidade com que o digital amplia as consequências das ações nele exercidas. Maggiolini, citando Bauman, aponta que enquanto nossos antepassados eram testemunhas diretas das consequências de todos seus atos, o homem moderno, agindo na ágora digital, terá seus atos divulgados e mesmo amplificados para o mundo inteiro, com consequências imprevisíveis e, às vezes, perigosas.
 
 ### 5.1 PRIVACIDADE
 
@@ -217,7 +187,7 @@ A aprovação de legislações que abordam a questão da privacidade do usuário
 
 ### 5.2 SEGURANÇA
 
-Outro ponto de preocupação é a transmissão de uma falsa sensação de segurança ao usuário. SSL, o protocolo de segurança da internet, é notório por sua complexidade e, em razão disso, pode transmitir a impressão de que está tudo bem quando do acesso de um serviço online15.
+Outro ponto de preocupação é a transmissão de uma falsa sensação de segurança ao usuário. SSL, o protocolo de segurança da internet, é notório por sua complexidade e, em razão disso, pode transmitir a impressão de que está tudo bem quando do acesso de um serviço online.
 
 Ainda que a implementação usada tenha sido corretamente desenvolvida, o que nem sempre é o caso, existem diversas configurações que podem ser modificadas e combinações de configurações que tornam o protocolo, na prática, uma camada de nada.
 
@@ -235,7 +205,7 @@ Sabe-se que os resultados apresentados por uma inteligência artificial dependem
 
 É conhecido o caso do desenvolvimento, pela empresa Amazon, de um sistema, que utilizava de recursos de inteligência artificial, usado para subsidiar a contratação de funcionários. Tal sistema foi treinado com o banco de dados de currículos da própria empresa, que abrangia um período de cerca de dez anos.
 
-Ocorre que a esmagadora maioria dos currículos constantes da base de dados foram enviados por homens, e o sistema terminou, por exemplo, pontuando negativamente currículos que continham a expressão "women's". Em outros casos, currículos que mencionavam o estudo em escolas exclusivamente femininas também foram avaliados de forma negativa17.
+Ocorre que a esmagadora maioria dos currículos constantes da base de dados foram enviados por homens, e o sistema terminou, por exemplo, pontuando negativamente currículos que continham a expressão "women's". Em outros casos, currículos que mencionavam o estudo em escolas exclusivamente femininas também foram avaliados de forma negativa.
 
 #### 5.3.1 INTERATIVIDADE
 
@@ -253,15 +223,15 @@ Entretanto, esses problemas, por que identificáveis com uma análise mais atent
 
 Com a colheita de dados de uso realizada por websites, torna-se possível oferecer ao usuário uma experiência altamente personalizada, com resultados de busca e feeds ajustados ao histórico de buscas. Essa conveniência, entretanto, é uma faca de dois gumes, pois termina por perpetuar um ciclo de feedback que pode se tornar nocivo. Cada vez mais o sistema oferece ao usuário resultados que corroboram aquele ponto de vista inicial obtido.
 
-Isso pode ser mitigada pelo próprio algoritmo utilizado pela empresa, incluindo certo número de enfoques divergentes daquele a que o usuário está acostumado. Porém, num modelo de negócios onde cliques em anúncios são o que importa, oferecer alternativas ao usuário pode ser contraproducente.
+Isso pode ser mitigado pelo próprio algoritmo utilizado pela empresa, incluindo certo número de enfoques divergentes daquele a que o usuário está acostumado. Porém, num modelo de negócios onde cliques em anúncios são o que importa, oferecer alternativas ao usuário pode ser contraproducente.
 
-Essa característica do sistema de personalização varia conforme o tipo de website. Num sistema de busca, Google ou Bing, por exemplo, as notícias mostradas concentram-se em sites mais populares, pois a busca precisa agradar a um maior número de diferentes usuários. Numa rede social, como o Facebook, entretanto, o nível de personalização deve ser maior, pois o próprio conceito do site é oferecer uma experiência altamente especializada. Ainda assim, é possível incluir critérios de classificação que tornem esse viés menos pronunciado19.
+Essa característica do sistema de personalização varia conforme o tipo de website. Num sistema de busca, Google ou Bing, por exemplo, as notícias mostradas concentram-se em sites mais populares, pois a busca precisa agradar a um maior número de diferentes usuários. Numa rede social, como o Facebook, entretanto, o nível de personalização deve ser maior, pois o próprio conceito do site é oferecer uma experiência altamente especializada. Ainda assim, é possível incluir critérios de classificação que tornem esse viés menos pronunciado.
 
 ### 5.5 CONCENTRAÇÃO DE MERCADOS
 
 Sobre o modelo de computação em nuvem, ainda, outra questão ética que se apresenta, oriunda das características do modelo e das exigências firmadas por legislações como a GDPR e a LGPD, é a tendência à concentração de alguns tipos de mercados.
 
-Com as possibilidades trazidas pela computação em nuvem, a decisão pela implantação de um negócio online em plataforma própria tornou-se em boa parte dos casos inviável. Os ganhos em escala e as facilidades de administração de uma plataforma em nuvem são inegáveis, mas na fase de experimentação20. Para empresas menores, uma vez que a atividade entre em modo regular, a utilização da computação em nuvem incorre em custos fixos que podem ser bastante significativos. Além disso, falhas na configuração dos serviços podem resultar em “estouros” de orçamento e brechas de segurança graves.
+Com as possibilidades trazidas pela computação em nuvem, a decisão pela implantação de um negócio online em plataforma própria tornou-se em boa parte dos casos inviável. Os ganhos em escala e as facilidades de administração de uma plataforma em nuvem são inegáveis, mas na fase de experimentação. Para empresas menores, uma vez que a atividade entre em modo regular, a utilização da computação em nuvem incorre em custos fixos que podem ser bastante significativos. Além disso, falhas na configuração dos serviços podem resultar em “estouros” de orçamento e brechas de segurança graves.
 
 Uma vez que essas desvantagens se apresentam no momento em que a empresa adentra o dia-a-dia de suas operações, é razoável pensar que numa primeira fase as vantagens da computação em nuvem serão usufruidas principalmente por empresas de grande porte, que podem custear a rotina de trabalho em conjunto com a experimentação de novos projetos sem que isso implique no comprometimento de grande parcela do orçamento da empresa.
 
@@ -275,19 +245,19 @@ Pois bem, dados sempre foram valiosos, mas somente com o advento e o desenvolvim
 
 Seja na forma de aplicações que coletam dados do usuário para venda, seja na forma de direcionamento de publicidade, criou-se um limbo ético, pois, novamente, várias empresas enterram previsões irrazoáveis de coleta de dados em termos de uso enormes, trazem essas opções de coleta habilitadas a todo vapor em seus aplicativos ou utensílios, e escondem as opções de desligamento da coleta atrás de um labirinto de opções de menu.
 
-Em outros casos, empresas simplesmente optam por ignorar o que foi estabelecido nos termos de uso ou legalmente determinado. Numa reclamação ajuizada em Maio de 2023 contra a Amazon, por exemplo, a empresa é acusada de não apagar os registros de voz, as transcrições geradas a partir desses, e os registros de geolocalização de crianças nos aparelhos Alexa, mesmo quando instada a tanto pelos pais21.
+Em outros casos, empresas simplesmente optam por ignorar o que foi estabelecido nos termos de uso ou legalmente determinado. Numa reclamação ajuizada em Maio de 2023 contra a Amazon, por exemplo, a empresa é acusada de não apagar os registros de voz, as transcrições geradas a partir desses, e os registros de geolocalização de crianças nos aparelhos Alexa, mesmo quando instada a tanto pelos pais.
 
 ## 6 CONCLUSÃO
 
 Em 1957, a talidomida foi comercializada pela primeira vez, na Alemanha, como sedativo e hipnótico. Acreditava-se que possuía poucos efeitos colaterais. O medicamento, muito eficaz no combate aos enjoos matinais decorrentes da gravidez, foi rapidamente adotado e prescrito por médicos em quase todas as partes do mundo.
 
-No final da década de 60 foram descritos na Alemanha, no Reino Unido e na Austrália os primeiros casos de más-formações congênitas, principalmente focomelia22, sem, entretanto, estabelecer-se relação de causalidade com o fármaco. Em 1962, já contabilizados mais de 10.000 casos de defeitos congênitos causados pela talidomida, sua comercialização foi proibida.
+No final da década de 60 foram descritos na Alemanha, no Reino Unido e na Austrália os primeiros casos de más-formações congênitas, principalmente focomelia, sem, entretanto, estabelecer-se relação de causalidade com o fármaco. Em 1962, já contabilizados mais de 10.000 casos de defeitos congênitos causados pela talidomida, sua comercialização foi proibida.
 
 Ao contrário de produtos farmacêuticos, os danos causados por algoritmos e os desdobramentos sociais de suas inovações são mais difíceis de serem previstos. Ainda que um sentimento geral de cautela seja necessário e mesmo observado, ele não é de maneira alguma suficiente.
 
-A proliferação de empresas oferecendo serviços baseados em inteligência artificial e na computação em nuvem traz à baila a questão de quais realmente são os desdobramentos éticos da adoção dessas tecnologias, uma vez que os principais atores a levantar o estandarte da ética são dela violadores contumazes23.
+A proliferação de empresas oferecendo serviços baseados em inteligência artificial e na computação em nuvem traz à baila a questão de quais realmente são os desdobramentos éticos da adoção dessas tecnologias, uma vez que os principais atores a levantar o estandarte da ética são dela violadores contumazes.
 
-Além disso, a adesão entusiasmada de diversos governos às possibilidades de controle social trazidas por essas novas tecnologias, e a colaboração das maiores empresas para o desenvolvimento desse tipo de ferramentas24 levanta a questão: o que realmente se deseja? Uma análise aberta sobre os perigos dessas inovações ou pastorear a discussão para que uma determinada ética, que seria futuramente cristalizada em lei, prevaleça?
+Além disso, a adesão entusiasmada de diversos governos às possibilidades de controle social trazidas por essas novas tecnologias, e a colaboração das maiores empresas para o desenvolvimento desse tipo de ferramentas levanta a questão: o que realmente se deseja? Uma análise aberta sobre os perigos dessas inovações ou pastorear a discussão para que uma determinada ética, que seria futuramente cristalizada em lei, prevaleça?
 
 ## 7 REFERÊNCIAS
 
