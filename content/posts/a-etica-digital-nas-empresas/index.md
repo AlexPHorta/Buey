@@ -20,34 +20,36 @@ Este trabalho visa traçar um panorama sobre a ética digital nas empresas, sua 
 
 ## SUMÁRIO
 
-1 INTRODUÇÃO	4
-2 GÊNESE DA ÉTICA	4
-2.1 MORAL	5
-2.2 ÉTICA	5
-2.2.1 A ÉTICA NA ANTIGUIDADE	6
-2.2.1.1 SÓCRATES	6
-2.2.1.2 PLATÃO	6
-2.2.1.3 ARISTÓTELES	6
-2.2.2 A ÉTICA NA IDADE MÉDIA	7
-2.2.2.1 AGOSTINHO DE HIPONA	7
-2.2.2.2 TOMÁS DE AQUINO	8
-2.2.3 A ÉTICA MODERNA	9
-2.2.3.1 MAQUIAVEL	9
-2.2.3.2 DAVID HUME	9
-2.2.3.3 IMMANUEL KANT	10
-3 ÉTICA CONTEMPORÂNEA	11
-4 A ÉTICA EMPRESARIAL	12
-5 A ÉTICA DIGITAL	13
-5.1 PRIVACIDADE	14
-5.2 SEGURANÇA	14
-5.3 “INTELIGÊNCIA” ARTIFICIAL	15
-5.3.1 INTERATIVIDADE	16
-5.4 MANIPULAÇÃO E VIESES	17
-5.5 CONCENTRAÇÃO DE MERCADOS	18
-5.6 PROPRIEDADE DE DADOS	19
-6 CONCLUSÃO	19
-7 REFERÊNCIAS	21
+1 [INTRODUÇÃO][introducao]
+2 GÊNESE DA ÉTICA
+2.1 MORAL
+2.2 ÉTICA
+2.2.1 A ÉTICA NA ANTIGUIDADE
+2.2.1.1 SÓCRATES
+2.2.1.2 PLATÃO
+2.2.1.3 ARISTÓTELES
+2.2.2 A ÉTICA NA IDADE MÉDIA
+2.2.2.1 AGOSTINHO DE HIPONA
+2.2.2.2 TOMÁS DE AQUINO
+2.2.3 A ÉTICA MODERNA
+2.2.3.1 MAQUIAVEL
+2.2.3.2 DAVID HUME
+2.2.3.3 IMMANUEL KANT
+3 ÉTICA CONTEMPORÂNEA
+4 A ÉTICA EMPRESARIAL
+5 A ÉTICA DIGITAL
+5.1 PRIVACIDADE
+5.2 SEGURANÇA
+5.3 “INTELIGÊNCIA” ARTIFICIAL
+5.3.1 INTERATIVIDADE
+5.4 MANIPULAÇÃO E VIESES
+5.5 CONCENTRAÇÃO DE MERCADOS
+5.6 PROPRIEDADE DE DADOS
+6 CONCLUSÃO
+7 REFERÊNCIAS
 
+
+[introducao]
 ## 1 INTRODUÇÃO
 
 Desde o início do que conhecemos como civilização ocidental, o ser humano procura entender a realidade e nela movimentar-se, seja pelas lentes da moral, ou da ética. Nesses dois milênios, a humanidade conheceu um grande desenvolvimento em sua compreensão sobre problemas de ordem moral, que nem sempre foram vistos como problemas, e sobre o papel do homem e das instituições na tarefa de mitiga-los.
