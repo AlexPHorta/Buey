@@ -1,94 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://www.buey.net.br/posts/a-etica-digital-nas-empresas/</loc>
+    <lastmod>2023-08-28T20:17:20+00:00</lastmod>
+  </url><url>
+    <loc>https://www.buey.net.br/</loc>
+    <lastmod>2023-08-28T20:17:20+00:00</lastmod>
+  </url><url>
     <loc>https://www.buey.net.br/posts/</loc>
-    <lastmod>2023-04-19T23:53:20+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-08-28T20:17:20+00:00</lastmod>
+  </url><url>
     <loc>https://www.buey.net.br/posts/protecao-excessiva/</loc>
     <lastmod>2023-04-19T23:53:20+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.buey.net.br/posts/rebuilding-burglar/</loc>
     <lastmod>2023-03-21T21:17:20+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.buey.net.br/</loc>
-    <lastmod>2023-03-16T09:20:26-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.buey.net.br/projects/</loc>
     <lastmod>2023-03-16T09:20:26-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.buey.net.br/posts/interesting-cast-issue-java/</loc>
     <lastmod>2022-06-27T22:53:19-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.buey.net.br/posts/never-straight-lines/</loc>
     <lastmod>2022-06-27T22:10:02-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.buey.net.br/tags/pizza/</loc>
     <lastmod>2022-06-27T22:10:02-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.buey.net.br/tags/solidarity/</loc>
     <lastmod>2022-06-27T22:10:02-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.buey.net.br/tags/</loc>
     <lastmod>2022-06-27T22:10:02-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.buey.net.br/tags/violence/</loc>
     <lastmod>2022-06-27T22:10:02-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.buey.net.br/tags/beginner/</loc>
     <lastmod>2022-04-23T09:56:02-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.buey.net.br/posts/programming-project-idea/</loc>
     <lastmod>2022-04-23T09:56:02-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.buey.net.br/tags/ideas/</loc>
     <lastmod>2022-04-23T09:56:02-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.buey.net.br/tags/programming/</loc>
     <lastmod>2022-04-23T09:56:02-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.buey.net.br/tags/projects/</loc>
     <lastmod>2022-04-23T09:56:02-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.buey.net.br/about/</loc>
     <lastmod>2022-04-23T09:20:26-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.buey.net.br/categories/</loc>
   </url>
-  
 </urlset>

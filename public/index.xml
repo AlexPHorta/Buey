@@ -7,10 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>buey.horta@proton.me (Alexandre Paloschi)</managingEditor>
     <webMaster>buey.horta@proton.me (Alexandre Paloschi)</webMaster>
-    <lastBuildDate>Thu, 16 Mar 2023 09:20:26 -0300</lastBuildDate>
-    
-	<atom:link href="https://www.buey.net.br/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Mon, 28 Aug 2023 20:17:20 +0000</lastBuildDate><atom:link href="https://www.buey.net.br/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Ética Digital nas Empresas</title>
+      <link>https://www.buey.net.br/posts/a-etica-digital-nas-empresas/</link>
+      <pubDate>Mon, 28 Aug 2023 20:17:20 +0000</pubDate>
+      <author>buey.horta@proton.me (Alexandre Paloschi)</author>
+      <guid>https://www.buey.net.br/posts/a-etica-digital-nas-empresas/</guid>
+      <description>Trabalho acadêmico apresentado em cumprimento das exigências da disciplina de Ambiente Profissional e de Extensão (APEX I) do Curso Superior de Análise e Desenvolvimento de Sistemas.
+Orientador: Carla Reis
+São José dos Campos 2023
+RESUMO Este trabalho visa traçar um panorama sobre a ética digital nas empresas, sua gênese, suas características e as dificuldades de sua aquilatação. Para tanto, foi realizada uma pesquisa bibliográfica sobre as diversas perspectivas históricas do termo ‘ética’, e sobre diversos episódios atuais em que, nos diversos aspectos influenciados pela escalada tecnológica que presenciamos, a conduta empresarial passou ao largo do que se aceita como comportamento ético.</description>
+    </item>
     
     <item>
       <title>Proteção Excessiva</title>
@@ -48,7 +56,7 @@ NSEW solves this situation minimizing the number of strokes needed to select a s
       <pubDate>Mon, 27 Jun 2022 22:53:19 -0300</pubDate>
       <author>buey.horta@proton.me (Alexandre Paloschi)</author>
       <guid>https://www.buey.net.br/posts/interesting-cast-issue-java/</guid>
-      <description>Some days ago I was convinced by my friend Fernando to start learning Java. I wondered, &amp;ldquo;Why not?&amp;quot;. While examining the first chapters of Java - A Beginner&amp;rsquo;s Guide, I stumbled upon this interesting &amp;ldquo;issue&amp;rdquo;.
+      <description>Some days ago I was convinced by my friend Fernando to start learning Java. I wondered, &amp;ldquo;Why not?&amp;rdquo;. While examining the first chapters of Java - A Beginner&amp;rsquo;s Guide, I stumbled upon this interesting &amp;ldquo;issue&amp;rdquo;.
 Because of Java&amp;rsquo;s automatic type promotion in expressions, an aparently correct code can cause compilation errors. See&amp;hellip;
 byte b = 20; b = b * 2; // This will trigger a compilation error. You can&amp;#39;t assign an int to a byte.</description>
     </item>
@@ -69,7 +77,7 @@ Then, this guy approached me, a total stranger. He had an unusual request to mak
       <pubDate>Sat, 23 Apr 2022 09:56:02 -0300</pubDate>
       <author>buey.horta@proton.me (Alexandre Paloschi)</author>
       <guid>https://www.buey.net.br/posts/programming-project-idea/</guid>
-      <description>The most common question I read in every thread, and I imagine you already have too, is &amp;ldquo;I&amp;rsquo;m new at programming and I want to practice, can someone give me some project ideas?&amp;quot;.
+      <description>The most common question I read in every thread, and I imagine you already have too, is &amp;ldquo;I&amp;rsquo;m new at programming and I want to practice, can someone give me some project ideas?&amp;rdquo;.
 Usually people have a very long list of responses right under the sleeve, and the options range from programming challenges to traditional and easy to build programs like a pomodoro timer, or a reminder. There are even complete projects devoted to this situation, some of them very interesting (and I&amp;rsquo;ll list them at the end of this post), but I want to share a different approach.</description>
     </item>
     
