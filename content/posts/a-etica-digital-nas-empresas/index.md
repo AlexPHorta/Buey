@@ -20,7 +20,7 @@ Este trabalho visa traçar um panorama sobre a ética digital nas empresas, sua 
 
 ## SUMÁRIO
 
-1 [INTRODUÇÃO][introducao]
+1 [INTRODUÇÃO][#introducao]
 2 GÊNESE DA ÉTICA
 2.1 MORAL
 2.2 ÉTICA
@@ -49,8 +49,7 @@ Este trabalho visa traçar um panorama sobre a ética digital nas empresas, sua 
 7 REFERÊNCIAS
 
 
-[introducao]
-## 1 INTRODUÇÃO
+<h2 id="introducao">1 INTRODUÇÃO</h2>
 
 Desde o início do que conhecemos como civilização ocidental, o ser humano procura entender a realidade e nela movimentar-se, seja pelas lentes da moral, ou da ética. Nesses dois milênios, a humanidade conheceu um grande desenvolvimento em sua compreensão sobre problemas de ordem moral, que nem sempre foram vistos como problemas, e sobre o papel do homem e das instituições na tarefa de mitiga-los.
 
