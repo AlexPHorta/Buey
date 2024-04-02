@@ -1,6 +1,6 @@
 ---
 title: "A Desinformação na Era da Informação"
-date: 2024-04-02T01:21:20
+date: 2024-04-02T01:56:20
 draft: false
 slug: a-desinformacao-na-era-da-informacao
 ---
