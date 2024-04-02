@@ -7,19 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>buey.horta@proton.me (Alexandre Paloschi)</managingEditor>
     <webMaster>buey.horta@proton.me (Alexandre Paloschi)</webMaster>
-    <lastBuildDate>Mon, 28 Aug 2023 20:17:20 +0000</lastBuildDate><atom:link href="https://www.buey.net.br/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A Ética Digital nas Empresas</title>
-      <link>https://www.buey.net.br/posts/a-etica-digital-nas-empresas/</link>
-      <pubDate>Mon, 28 Aug 2023 20:17:20 +0000</pubDate>
-      <author>buey.horta@proton.me (Alexandre Paloschi)</author>
-      <guid>https://www.buey.net.br/posts/a-etica-digital-nas-empresas/</guid>
-      <description>Trabalho acadêmico apresentado em cumprimento das exigências da disciplina de Ambiente Profissional e de Extensão (APEX I) do Curso Superior de Análise e Desenvolvimento de Sistemas.
-Orientador: Carla Reis
-São José dos Campos 2023
-RESUMO Este trabalho visa traçar um panorama sobre a ética digital nas empresas, sua gênese, suas características e as dificuldades de sua aquilatação. Para tanto, foi realizada uma pesquisa bibliográfica sobre as diversas perspectivas históricas do termo ‘ética’, e sobre diversos episódios atuais em que, nos diversos aspectos influenciados pela escalada tecnológica que presenciamos, a conduta empresarial passou ao largo do que se aceita como comportamento ético.</description>
-    </item>
-    
+    <lastBuildDate>Wed, 19 Apr 2023 23:53:20 +0000</lastBuildDate><atom:link href="https://www.buey.net.br/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Proteção Excessiva</title>
       <link>https://www.buey.net.br/posts/protecao-excessiva/</link>
@@ -69,6 +57,18 @@ Then, this guy approached me, a total stranger. He had an unusual request to mak
       <guid>https://www.buey.net.br/posts/programming-project-idea/</guid>
       <description>The most common question I read in every thread, and I imagine you already have too, is &amp;ldquo;I&amp;rsquo;m new at programming and I want to practice, can someone give me some project ideas?&amp;rdquo;.
 Usually people have a very long list of responses right under the sleeve, and the options range from programming challenges to traditional and easy to build programs like a pomodoro timer, or a reminder. There are even complete projects devoted to this situation, some of them very interesting (and I&amp;rsquo;ll list them at the end of this post), but I want to share a different approach.</description>
+    </item>
+    
+    <item>
+      <title>A Ética Digital Nas Empresas</title>
+      <link>https://www.buey.net.br/posts/a-etica-digital-nas-empresas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>buey.horta@proton.me (Alexandre Paloschi)</author>
+      <guid>https://www.buey.net.br/posts/a-etica-digital-nas-empresas/</guid>
+      <description>Trabalho acadêmico apresentado em cumprimento das exigências da disciplina de Ambiente Profissional e de Extensão (APEX I) do Curso Superior de Análise e Desenvolvimento de Sistemas.
+Orientador: Carla Reis
+São José dos Campos 2023
+RESUMO Este trabalho visa traçar um panorama sobre a ética digital nas empresas, sua gênese, suas características e as dificuldades de sua aquilatação. Para tanto, foi realizada uma pesquisa bibliográfica sobre as diversas perspectivas históricas do termo ‘ética’, e sobre diversos episódios atuais em que, nos diversos aspectos influenciados pela escalada tecnológica que presenciamos, a conduta empresarial passou ao largo do que se aceita como comportamento ético.</description>
     </item>
     
   </channel>

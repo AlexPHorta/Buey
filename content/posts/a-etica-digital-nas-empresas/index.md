@@ -1,8 +1,8 @@
 ---
-title: "A Ética Digital nas Empresas"
-date: 2023-08-28T20:17:20
-draft: false
-slug: a-etica-digital-nas-empresas
+Title: "A Ética Digital Nas Empresas"
+Date: 2023-08-28t20:17:20
+Draft: False
+Slug: A-Etica-Digital-Nas-Empresas
 ---
 
 Trabalho acadêmico apresentado em cumprimento das exigências da disciplina de Ambiente Profissional e de Extensão (APEX I) do Curso Superior de Análise e Desenvolvimento de Sistemas.
@@ -124,7 +124,7 @@ Desse modo, o papel da razão é secundário, somente as paixões e emoções se
 
 ##### 2.2.3.3 IMMANUEL KANT
 
-Immanuel Kant (1724-1804) foi um filósofo alemão do período iluminista, considerado um dos 
+Immanuel Kant (1724-1804) foi um filósofo alemão do período iluminista, considerado um dos
 maiores estudiosos da moral de todos os tempos. Sua filosofia é comumente referida como ética deontológica, e enfatiza os conceitos de dever e a importância do respeito a princípios e regras morais, independentemente dos resultados por eles produzidos.
 
 Para Kant, a moral é oriunda da razão. O indivíduo deve interpretar a realidade de forma independente e, a partir dessa atividade, elaborar para si princípios morais que nortearão sua conduta. Um comportamento moralmente digno parte, portanto, da observância estrita pelo indivíduo daquelas mesmas regras que ele, por meio de sua análise racional, criou para si, e nunca de emoções ou desejos.

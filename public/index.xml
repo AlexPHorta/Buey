@@ -7,19 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>buey.horta@proton.me (Alexandre Paloschi)</managingEditor>
     <webMaster>buey.horta@proton.me (Alexandre Paloschi)</webMaster>
-    <lastBuildDate>Mon, 28 Aug 2023 20:17:20 +0000</lastBuildDate><atom:link href="https://www.buey.net.br/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A Ética Digital nas Empresas</title>
-      <link>https://www.buey.net.br/posts/a-etica-digital-nas-empresas/</link>
-      <pubDate>Mon, 28 Aug 2023 20:17:20 +0000</pubDate>
-      <author>buey.horta@proton.me (Alexandre Paloschi)</author>
-      <guid>https://www.buey.net.br/posts/a-etica-digital-nas-empresas/</guid>
-      <description>Trabalho acadêmico apresentado em cumprimento das exigências da disciplina de Ambiente Profissional e de Extensão (APEX I) do Curso Superior de Análise e Desenvolvimento de Sistemas.
-Orientador: Carla Reis
-São José dos Campos 2023
-RESUMO Este trabalho visa traçar um panorama sobre a ética digital nas empresas, sua gênese, suas características e as dificuldades de sua aquilatação. Para tanto, foi realizada uma pesquisa bibliográfica sobre as diversas perspectivas históricas do termo ‘ética’, e sobre diversos episódios atuais em que, nos diversos aspectos influenciados pela escalada tecnológica que presenciamos, a conduta empresarial passou ao largo do que se aceita como comportamento ético.</description>
-    </item>
-    
+    <lastBuildDate>Wed, 19 Apr 2023 23:53:20 +0000</lastBuildDate><atom:link href="https://www.buey.net.br/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Proteção Excessiva</title>
       <link>https://www.buey.net.br/posts/protecao-excessiva/</link>
@@ -88,6 +76,18 @@ Usually people have a very long list of responses right under the sleeve, and th
       <author>buey.horta@proton.me (Alexandre Paloschi)</author>
       <guid>https://www.buey.net.br/about/</guid>
       <description>Buey is my brainchild. I&amp;rsquo;m Alexandre Paloschi Horta, an aspiring developer. I program in Python, and I&amp;rsquo;m also getting my feet wet in Javascript. Besides that, I&amp;rsquo;m member of the Doom/Death Metal band Macacos da Manchúria, and I also write short stories, but they&amp;rsquo;re in my native language (portuguese), so no place for them in here. Last, and most important of all, I&amp;rsquo;m the husband of my dearest Thays and proud father of Bárbara (my beloved pepper jello) and Lavínia (my beloved star in the skies, someday we&amp;rsquo;ll meet again).</description>
+    </item>
+    
+    <item>
+      <title>A Ética Digital Nas Empresas</title>
+      <link>https://www.buey.net.br/posts/a-etica-digital-nas-empresas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>buey.horta@proton.me (Alexandre Paloschi)</author>
+      <guid>https://www.buey.net.br/posts/a-etica-digital-nas-empresas/</guid>
+      <description>Trabalho acadêmico apresentado em cumprimento das exigências da disciplina de Ambiente Profissional e de Extensão (APEX I) do Curso Superior de Análise e Desenvolvimento de Sistemas.
+Orientador: Carla Reis
+São José dos Campos 2023
+RESUMO Este trabalho visa traçar um panorama sobre a ética digital nas empresas, sua gênese, suas características e as dificuldades de sua aquilatação. Para tanto, foi realizada uma pesquisa bibliográfica sobre as diversas perspectivas históricas do termo ‘ética’, e sobre diversos episódios atuais em que, nos diversos aspectos influenciados pela escalada tecnológica que presenciamos, a conduta empresarial passou ao largo do que se aceita como comportamento ético.</description>
     </item>
     
   </channel>
