@@ -1,7 +1,7 @@
 ---
 title: "Today I learned: Django"
 date: 2023-04-19T23:57:20
-draft: true
+draft: False
 slug: today-i-learned-django
 ---
 

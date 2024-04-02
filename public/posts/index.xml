@@ -7,7 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>buey.horta@proton.me (Alexandre Paloschi)</managingEditor>
     <webMaster>buey.horta@proton.me (Alexandre Paloschi)</webMaster>
-    <lastBuildDate>Wed, 19 Apr 2023 23:53:20 +0000</lastBuildDate><atom:link href="https://www.buey.net.br/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Apr 2024 01:56:20 +0000</lastBuildDate><atom:link href="https://www.buey.net.br/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Desinformação na Era da Informação</title>
+      <link>https://www.buey.net.br/posts/a-desinformacao-na-era-da-informacao/</link>
+      <pubDate>Tue, 02 Apr 2024 01:56:20 +0000</pubDate>
+      <author>buey.horta@proton.me (Alexandre Paloschi)</author>
+      <guid>https://www.buey.net.br/posts/a-desinformacao-na-era-da-informacao/</guid>
+      <description>Trabalho acadêmico apresentado em cumprimento das exigências da disciplina de Ambiente Profissional e de Extensão (APEX II) do Curso Superior de Análise e Desenvolvimento de Sistemas.
+Orientador: Carla Reis
+São José dos Campos 2024
+##RESUMO
+Este trabalho visa delinear a situação atual do problema da desinformação e das fake news nas redes sociais. Para tanto, foi realizada uma pesquisa bibliográfica sobre os diversos pressupostos de análise do problema e as abordagens mais recentes para sua minimização.</description>
+    </item>
+    
+    <item>
+      <title>Today I learned: Django</title>
+      <link>https://www.buey.net.br/posts/today-i-learned-django/</link>
+      <pubDate>Wed, 19 Apr 2023 23:57:20 +0000</pubDate>
+      <author>buey.horta@proton.me (Alexandre Paloschi)</author>
+      <guid>https://www.buey.net.br/posts/today-i-learned-django/</guid>
+      <description>Create a project $ django-admin startproject name_of_the_project Create an app inside the project $ python manage.py startapp name_of_the_app Remember that a project can have many apps inside.
+Basic workflow Create a view # &amp;lt;app&amp;gt;/views.py from django.http import HttpResponse def index(request): return HttpResponse(&amp;#34;The view&amp;#34;) Create the URLs Wire the views in /urls.py by creating (for example) path() calls;
+# &amp;lt;app&amp;gt;/urls.py from django.urls import path from . import views urlpatterns = [ path(&amp;#34;january&amp;#34;, views.</description>
+    </item>
+    
     <item>
       <title>Proteção Excessiva</title>
       <link>https://www.buey.net.br/posts/protecao-excessiva/</link>
