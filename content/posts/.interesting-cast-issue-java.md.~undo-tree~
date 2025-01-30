@@ -1,8 +1,0 @@
-(undo-tree-save-format-version . 1)
-"cd77627b33fe05245c51fbe06055a78fde86cb80"
-[nil nil nil nil (25626 21309 125305 674000) 0 nil]
-([nil nil ((1141 . 1143) (#("5" 0 1 (markdown-gfm-code (1123 1170) fontified t face (markdown-pre-face markdown-code-face) font-lock-multiline t)) . 1141) (t 25274 26007 661746 978000)) nil (25626 21309 125299 437000) 0 nil])
-([nil nil ((1138 . 1139) (#("+" 0 1 (fontified t markdown-gfm-code (1123 1171) face (markdown-pre-face markdown-code-face) font-lock-multiline t)) . 1138) (t 25626 21309 287926 85000)) nil (25626 21453 76154 616000) 0 nil])
-([nil nil ((#("0" 0 1 (fontified t markdown-gfm-code (1123 1171) face (markdown-pre-face markdown-code-face) font-lock-multiline t)) . 1142)) nil (25626 21453 76147 459000) 0 nil])
-([nil current ((118 . 123) (#("true" 0 4 (markdown-yaml-metadata-section (5 123) markdown-metadata-value (111 122 111 116 116 118 118 122 #<buffer interesting-cast-issue-java.md>) fontified t face markdown-metadata-value-face)) . 118) (undo-tree-id0 . -4) (t 25626 21453 152299 837000)) nil (25626 21517 119014 537000) 0 nil])
-nil
