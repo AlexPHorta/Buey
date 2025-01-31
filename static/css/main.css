@@ -1,8 +1,7 @@
 html {
-    background-color: #FFF;
+    background-color: #EEE;
 
 body {
-    background-color: #DDD;
     font-family: Cormorant,"Times New Roman",Georgia,Serif;
     font-size: 1.2rem;
     margin: 0 auto;
@@ -11,7 +10,12 @@ body {
 }
 
 a {
+    background-color: hsl(59, 100%, 99%);
+    border: 1px solid hsl(59, 100%, 99%);
+    border-radius: 6px;
+    color: #980C0C;
     font-weight: bold;
+    padding: 0 2px;
     text-decoration: none;
 }
 
@@ -19,21 +23,18 @@ a:link {
 }
 
 a:visited {
+    color: #504F00;
 }
 
-a:focus {
-    border-bottom: 1px dotted #777;
-}
-
-a:hover {
-    border-bottom: 1px dotted #777;
+a:focus, a:hover {
+    background-color: hsl(59, 100%, 98%);
+    border: 1px solid hsl(59, 1%, 68%);
 }
 
 a:active {
 }
 
 header {
-    background-color: #DDD;
     padding: 1rem 2rem;
     text-align: center;
 }
@@ -42,8 +43,41 @@ header nav {
     text-align: center;
 }
 
+ul#navigation {
+    padding: 0;
+}
+
+ul#navigation li {
+    display: inline;
+    list-style-type: none;
+}
+
+ul#navigation li a {
+    background-color: hsl(59, 100%, 99%);
+    border: 1px solid hsl(59, 100%, 99%);
+    border-radius: 6px;
+    color: #980C0C;
+    font-weight: bold;
+    padding: 0 2px;
+    text-decoration: none;
+}
+
+ul#navigation li a:link {
+}
+
+ul#navigation li a:visited {
+    color: #504F00;
+}
+
+ul#navigation li a:focus, a:hover {
+    background-color: hsl(59, 100%, 98%);
+    border: 1px solid hsl(59, 1%, 68%);
+}
+
+ul#navigation li a:active {
+}
+
 main {
-    background-color: #DDD;
     padding-top: 1rem;
 }
 
@@ -68,7 +102,7 @@ section.hero h2 {
     padding-bottom: 0;
 }
 
-section.projects ul li {
+section ul li {
     list-style-type: none;
 }
 
