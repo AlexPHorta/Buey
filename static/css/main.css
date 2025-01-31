@@ -1,0 +1,76 @@
+html {
+    background-color: #FFF;
+
+body {
+    background-color: #DDD;
+    font-family: Cormorant,"Times New Roman",Georgia,Serif;
+    font-size: 1.2rem;
+    margin: 0 auto;
+    max-width: 80%;
+    width: 70%;
+}
+
+a {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:link {
+}
+
+a:visited {
+}
+
+a:focus {
+    border-bottom: 1px dotted #777;
+}
+
+a:hover {
+    border-bottom: 1px dotted #777;
+}
+
+a:active {
+}
+
+header {
+    background-color: #DDD;
+    padding: 1rem 2rem;
+    text-align: center;
+}
+
+header nav {
+    text-align: center;
+}
+
+main {
+    background-color: #DDD;
+    padding-top: 1rem;
+}
+
+main h2 {
+    padding-top: 1rem;
+}
+
+section {
+    padding: 1rem 2rem;
+}
+
+section h2 {
+    padding-bottom: 1rem;
+}
+
+
+section.hero {
+    padding: 0 6rem 1rem 6rem;
+}
+
+section.hero h2 {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+footer {
+    padding: 2rem;
+    text-align: center;
+}
+
