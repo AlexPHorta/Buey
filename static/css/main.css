@@ -53,25 +53,29 @@ ul#navigation li {
 }
 
 ul#navigation li a {
-    background-color: hsl(59, 100%, 99%);
-    border: 1px solid hsl(59, 100%, 99%);
-    border-radius: 6px;
-    color: #980C0C;
+    background-color: hsl(224,41%,71%);
+    border: 1px solid hsl(224,41%,71%);
+    border-radius: 3px;
+    color: #122966;
+    font-size: 1.2rem;
     font-weight: bold;
-    padding: 0 2px;
+    padding: 0 1rem;
     text-decoration: none;
+    transition: background-color 0.5s, border 0.5s, color 0.5s;
 }
 
 ul#navigation li a:link {
 }
 
 ul#navigation li a:visited {
-    color: #504F00;
 }
 
-ul#navigation li a:focus, a:hover {
-    background-color: hsl(59, 100%, 98%);
-    border: 1px solid hsl(59, 1%, 68%);
+ul#navigation li a:focus {}
+
+ul#navigation li a:hover {
+    background-color: hsl(224,54%,36%);
+    border: 1px solid #DDD;
+    color: #BBC5E2;
 }
 
 ul#navigation li a:active {
@@ -94,7 +98,7 @@ section h2 {
 }
 
 section.hero {
-    padding: 0 6rem 1rem 6rem;
+    padding: 1rem 6rem 2rem 6rem;
 }
 
 section.hero h2 {
@@ -104,6 +108,34 @@ section.hero h2 {
 
 section ul li {
     list-style-type: none;
+}
+
+a#top-button {
+    background-color: #041136;
+    border: none;
+    border-radius: 50%;
+    color: #97A7D3;
+    padding: 1rem;
+    position: fixed;
+    top: 82%;
+    left: 90%;
+    transition: background-color 0.5s, color 0.5s;
+}
+
+a#top-button:link {
+}
+
+a#top-button:visited {
+}
+
+a#top-button:focus {}
+
+a#top-button:hover {
+    background-color: #122966;
+    border: none;
+}
+
+a:active {
 }
 
 footer {
