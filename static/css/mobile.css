@@ -50,6 +50,7 @@ ul#navigation {
 ul#navigation li {
     display: inline;
     list-style-type: none;
+    margin: 0.1rem;
 }
 
 ul#navigation li a {
